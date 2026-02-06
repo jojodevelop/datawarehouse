@@ -1,0 +1,16 @@
+Treatment_Type,Outcome,Count
+Combined Therapy,Deteriorated,20
+Combined Therapy,Improved,123
+Combined Therapy,Stable,37
+Counseling,Deteriorated,28
+Counseling,Improved,123
+Counseling,Stable,56
+Medication,Deteriorated,29
+Medication,Improved,128
+Medication,Stable,56
+Psychotherapy,Deteriorated,28
+Psychotherapy,Improved,132
+Psychotherapy,Stable,49
+Rehabilitation,Deteriorated,26
+Rehabilitation,Improved,126
+Rehabilitation,Stable,39
