@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,District,Mental_Health_Condition,Severity_Level,Treatment_Type,Outcome,Visit_Date
+PAT00001,22,Male,Karongi,Bipolar Disorder,Severe,Medication,Improved,2024-06-24
+PAT00002,15,Female,Rwamagana,Anxiety Disorder,Moderate,Psychotherapy,Stable,2022-02-23
+PAT00003,61,Male,Gicumbi,Anxiety Disorder,Severe,Counseling,Stable,2022-09-18
+PAT00004,69,Female,Huye,Substance Abuse,Moderate,Psychotherapy,Improved,2023-08-09
+PAT00005,51,Male,Muhanga,Depression,Moderate,Medication,Stable,2024-11-26
+PAT00006,28,Female,Rwamagana,Bipolar Disorder,Severe,Medication,Deteriorated,2024-10-26
+PAT00007,73,Male,Kigali City,Schizophrenia,Severe,Rehabilitation,Improved,2023-01-05
+PAT00008,29,Male,Rubavu,Bipolar Disorder,Moderate,Rehabilitation,Improved,2022-12-09
+PAT00009,17,Male,Muhanga,Substance Abuse,Mild,Combined Therapy,Improved,2024-05-27
+PAT00010,67,Male,Rusizi,Bipolar Disorder,Moderate,Counseling,Stable,2024-06-02
+PAT00011,27,Female,Muhanga,Schizophrenia,Severe,Rehabilitation,Improved,2022-07-11
+PAT00012,26,Male,Huye,Substance Abuse,Severe,Medication,Improved,2022-04-22
+PAT00013,16,Male,Rusizi,PTSD,Moderate,Counseling,Improved,2022-09-18
+PAT00014,69,Male,Musanze,Substance Abuse,Moderate,Medication,Improved,2024-12-30
+PAT00015,31,Female,Rubavu,Substance Abuse,Mild,Medication,Stable,2023-06-25
+PAT00016,75,Female,Musanze,Substance Abuse,Mild,Medication,Improved,2022-08-05
+PAT00017,46,Male,Rubavu,Schizophrenia,Mild,Combined Therapy,Improved,2022-03-11
+PAT00018,80,Female,Karongi,PTSD,Moderate,Medication,Deteriorated,2023-10-01
+PAT00019,60,Male,Rusizi,Schizophrenia,Severe,Rehabilitation,Improved,2022-03-07
+PAT00020,28,Male,Muhanga,Schizophrenia,Severe,Medication,Improved,2022-12-11
+PAT00021,42,Female,Gicumbi,Substance Abuse,Mild,Medication,Improved,2023-11-26
+PAT00022,70,Male,Rubavu,Depression,Moderate,Combined Therapy,Improved,2023-12-09
+PAT00023,30,Male,Rusizi,Schizophrenia,Severe,Counseling,Stable,2023-08-24
+PAT00024,66,Male,Rubavu,Substance Abuse,Severe,Combined Therapy,Improved,2024-08-12
+PAT00025,27,Male,Musanze,Bipolar Disorder,Mild,Psychotherapy,Stable,2022-02-09
+PAT00026,46,Male,Karongi,PTSD,Mild,Counseling,Improved,2022-04-22
+PAT00027,77,Male,Nyagatare,Depression,Moderate,Medication,Improved,2023-01-18
+PAT00028,15,Female,Rubavu,Depression,Mild,Medication,Deteriorated,2023-10-17
+PAT00029,29,Female,Rubavu,Substance Abuse,Mild,Combined Therapy,Improved,2023-06-16
+PAT00030,49,Female,Muhanga,Substance Abuse,Moderate,Medication,Improved,2022-07-21
+PAT00031,72,Female,Rusizi,Bipolar Disorder,Mild,Counseling,Stable,2024-05-26
+PAT00032,48,Female,Muhanga,Anxiety Disorder,Mild,Rehabilitation,Deteriorated,2024-12-25
+PAT00033,49,Male,Musanze,Schizophrenia,Mild,Medication,Stable,2024-03-31
+PAT00034,28,Female,Nyagatare,Depression,Severe,Rehabilitation,Stable,2023-08-29
+PAT00035,40,Female,Karongi,Bipolar Disorder,Mild,Counseling,Improved,2022-06-16
+PAT00036,33,Female,Karongi,Substance Abuse,Mild,Psychotherapy,Stable,2024-10-16
+PAT00037,47,Male,Rusizi,Substance Abuse,Mild,Counseling,Improved,2023-10-23
+PAT00038,29,Female,Gicumbi,Depression,Mild,Counseling,Stable,2023-09-15
+PAT00039,36,Male,Gicumbi,Anxiety Disorder,Severe,Medication,Stable,2022-09-07
+PAT00040,17,Female,Gicumbi,Anxiety Disorder,Mild,Psychotherapy,Improved,2024-12-11
+PAT00041,35,Male,Rusizi,Anxiety Disorder,Mild,Counseling,Improved,2023-06-09
+PAT00042,15,Male,Rwamagana,PTSD,Mild,Medication,Stable,2023-08-20
+PAT00043,57,Male,Musanze,PTSD,Mild,Counseling,Deteriorated,2023-02-19
+PAT00044,63,Female,Kigali City,Bipolar Disorder,Moderate,Rehabilitation,Improved,2023-04-11
+PAT00045,15,Female,Musanze,Bipolar Disorder,Mild,Rehabilitation,Stable,2023-08-25
+PAT00046,52,Female,Gicumbi,PTSD,Mild,Psychotherapy,Improved,2024-02-17
+PAT00047,30,Male,Nyagatare,Bipolar Disorder,Severe,Counseling,Stable,2024-10-11
+PAT00048,67,Male,Nyagatare,PTSD,Moderate,Medication,Stable,2023-02-28
+PAT00049,51,Female,Muhanga,Schizophrenia,Moderate,Counseling,Improved,2024-10-15
+PAT00050,32,Female,Muhanga,Anxiety Disorder,Mild,Rehabilitation,Improved,2023-01-17
+PAT00051,65,Female,Nyagatare,PTSD,Moderate,Counseling,Improved,2024-01-18
+PAT00052,56,Female,Nyagatare,Depression,Mild,Medication,Improved,2022-01-07
+PAT00053,75,Female,Rusizi,Anxiety Disorder,Severe,Rehabilitation,Improved,2024-11-20
+PAT00054,55,Male,Muhanga,Schizophrenia,Mild,Counseling,Improved,2023-08-14
+PAT00055,26,Female,Nyagatare,PTSD,Moderate,Combined Therapy,Stable,2024-05-23
+PAT00056,31,Male,Nyagatare,Depression,Mild,Medication,Improved,2024-02-27
+PAT00057,32,Female,Huye,PTSD,Severe,Rehabilitation,Stable,2023-12-29
+PAT00058,54,Female,Kigali City,Substance Abuse,Moderate,Psychotherapy,Stable,2022-12-11
+PAT00059,30,Female,Gicumbi,Depression,Severe,Psychotherapy,Improved,2023-04-24
+PAT00060,79,Male,Rwamagana,Schizophrenia,Mild,Combined Therapy,Improved,2023-02-28
+PAT00061,76,Male,Nyagatare,Substance Abuse,Severe,Counseling,Deteriorated,2022-08-23
+PAT00062,67,Male,Rwamagana,Schizophrenia,Mild,Combined Therapy,Improved,2022-05-15
+PAT00063,17,Male,Muhanga,Depression,Mild,Psychotherapy,Deteriorated,2024-08-14
+PAT00064,69,Male,Rusizi,Substance Abuse,Moderate,Counseling,Improved,2023-04-21
+PAT00065,48,Female,Nyagatare,PTSD,Mild,Medication,Improved,2022-11-01
+PAT00066,40,Male,Musanze,Bipolar Disorder,Moderate,Counseling,Improved,2022-03-06
+PAT00067,34,Female,Karongi,Bipolar Disorder,Moderate,Combined Therapy,Improved,2023-04-03
+PAT00068,79,Female,Musanze,Bipolar Disorder,Mild,Combined Therapy,Improved,2022-03-24
+PAT00069,51,Female,Gicumbi,Depression,Severe,Medication,Improved,2024-03-22
+PAT00070,35,Female,Nyagatare,Bipolar Disorder,Mild,Counseling,Stable,2022-03-10
+PAT00071,45,Female,Huye,Bipolar Disorder,Severe,Combined Therapy,Stable,2023-11-27
+PAT00072,26,Male,Rubavu,Bipolar Disorder,Mild,Counseling,Improved,2024-11-25
+PAT00073,59,Male,Musanze,PTSD,Mild,Psychotherapy,Improved,2023-11-14
+PAT00074,64,Male,Kigali City,Substance Abuse,Severe,Rehabilitation,Improved,2022-07-14
+PAT00075,61,Female,Rusizi,Schizophrenia,Mild,Rehabilitation,Improved,2024-08-16
+PAT00076,71,Male,Gicumbi,Bipolar Disorder,Severe,Medication,Improved,2023-09-28
+PAT00077,28,Female,Rubavu,Depression,Severe,Rehabilitation,Improved,2024-07-03
+PAT00078,44,Male,Gicumbi,Schizophrenia,Severe,Combined Therapy,Improved,2023-07-09
+PAT00079,62,Female,Gicumbi,Schizophrenia,Mild,Counseling,Improved,2024-02-11
+PAT00080,47,Female,Muhanga,Bipolar Disorder,Severe,Counseling,Improved,2024-07-29
+PAT00081,18,Male,Nyagatare,Substance Abuse,Moderate,Medication,Stable,2022-09-17
+PAT00082,74,Male,Rusizi,Substance Abuse,Mild,Combined Therapy,Improved,2024-11-21
+PAT00083,75,Female,Nyagatare,Anxiety Disorder,Moderate,Rehabilitation,Improved,2022-01-15
+PAT00084,23,Female,Gicumbi,PTSD,Severe,Rehabilitation,Improved,2024-09-17
+PAT00085,44,Female,Huye,Substance Abuse,Moderate,Psychotherapy,Stable,2024-11-16
+PAT00086,20,Female,Rusizi,Substance Abuse,Mild,Rehabilitation,Stable,2024-10-01
+PAT00087,49,Female,Nyagatare,Schizophrenia,Moderate,Rehabilitation,Deteriorated,2023-06-25
+PAT00088,80,Female,Rubavu,Anxiety Disorder,Severe,Medication,Improved,2023-07-30
+PAT00089,17,Female,Huye,Depression,Moderate,Rehabilitation,Improved,2023-07-04
+PAT00090,70,Female,Huye,Schizophrenia,Moderate,Medication,Improved,2023-12-21
+PAT00091,21,Male,Huye,Anxiety Disorder,Moderate,Rehabilitation,Deteriorated,2023-12-07
+PAT00092,64,Male,Huye,Substance Abuse,Mild,Counseling,Improved,2022-04-20
+PAT00093,43,Female,Rusizi,PTSD,Mild,Psychotherapy,Deteriorated,2022-07-25
+PAT00094,38,Female,Kigali City,Anxiety Disorder,Moderate,Rehabilitation,Improved,2024-06-07
+PAT00095,72,Female,Rubavu,Anxiety Disorder,Severe,Psychotherapy,Deteriorated,2022-07-22
+PAT00096,80,Male,Karongi,Depression,Mild,Combined Therapy,Improved,2022-07-15
+PAT00097,59,Male,Nyagatare,Depression,Severe,Rehabilitation,Deteriorated,2022-05-30
+PAT00098,21,Male,Rusizi,Substance Abuse,Mild,Psychotherapy,Stable,2023-03-02
+PAT00099,25,Male,Muhanga,PTSD,Moderate,Combined Therapy,Deteriorated,2024-12-10
+PAT00100,40,Female,Huye,Bipolar Disorder,Moderate,Combined Therapy,Improved,2024-09-07
+PAT00101,32,Female,Huye,Bipolar Disorder,Mild,Medication,Improved,2024-02-05
+PAT00102,37,Female,Huye,Substance Abuse,Severe,Medication,Improved,2023-11-14
+PAT00103,56,Male,Nyagatare,Anxiety Disorder,Moderate,Medication,Improved,2023-11-02
+PAT00104,79,Female,Musanze,PTSD,Severe,Psychotherapy,Deteriorated,2023-04-26
+PAT00105,72,Male,Kigali City,Substance Abuse,Mild,Combined Therapy,Improved,2024-03-30
+PAT00106,69,Female,Nyagatare,PTSD,Mild,Combined Therapy,Improved,2022-10-27
+PAT00107,17,Female,Rubavu,Substance Abuse,Mild,Psychotherapy,Deteriorated,2022-05-07
+PAT00108,46,Female,Kigali City,Substance Abuse,Moderate,Rehabilitation,Improved,2022-03-12
+PAT00109,66,Female,Gicumbi,Substance Abuse,Severe,Counseling,Stable,2023-03-22
+PAT00110,79,Male,Huye,Anxiety Disorder,Severe,Rehabilitation,Improved,2023-10-14
+PAT00111,64,Male,Gicumbi,Anxiety Disorder,Moderate,Rehabilitation,Improved,2023-12-05
+PAT00112,30,Female,Gicumbi,Depression,Severe,Psychotherapy,Deteriorated,2023-06-25
+PAT00113,77,Female,Karongi,Anxiety Disorder,Moderate,Psychotherapy,Improved,2023-11-14
+PAT00114,51,Male,Rwamagana,Bipolar Disorder,Moderate,Medication,Stable,2023-03-27
+PAT00115,25,Female,Nyagatare,Depression,Moderate,Psychotherapy,Improved,2022-04-01
+PAT00116,56,Female,Muhanga,Substance Abuse,Moderate,Medication,Improved,2024-11-24
+PAT00117,53,Female,Huye,Schizophrenia,Severe,Psychotherapy,Deteriorated,2022-11-15
+PAT00118,76,Male,Kigali City,Depression,Moderate,Medication,Improved,2022-07-10
+PAT00119,18,Male,Kigali City,PTSD,Moderate,Combined Therapy,Improved,2023-01-29
+PAT00120,34,Male,Huye,Anxiety Disorder,Moderate,Psychotherapy,Improved,2023-02-22
+PAT00121,27,Male,Nyagatare,Substance Abuse,Mild,Medication,Improved,2023-08-25
+PAT00122,16,Female,Rwamagana,Substance Abuse,Moderate,Medication,Improved,2024-08-19
+PAT00123,56,Male,Muhanga,Anxiety Disorder,Mild,Rehabilitation,Stable,2024-12-13
+PAT00124,23,Female,Kigali City,Schizophrenia,Moderate,Psychotherapy,Improved,2024-09-05
+PAT00125,64,Female,Musanze,Depression,Mild,Medication,Deteriorated,2023-04-24
+PAT00126,18,Male,Gicumbi,Schizophrenia,Moderate,Psychotherapy,Deteriorated,2024-03-20
+PAT00127,65,Female,Muhanga,Schizophrenia,Moderate,Combined Therapy,Deteriorated,2023-03-03
+PAT00128,63,Female,Huye,Anxiety Disorder,Severe,Psychotherapy,Improved,2024-04-15
+PAT00129,24,Male,Rwamagana,Anxiety Disorder,Mild,Counseling,Improved,2023-05-07
+PAT00130,45,Male,Kigali City,Depression,Mild,Psychotherapy,Improved,2022-01-17
+PAT00131,41,Male,Muhanga,Bipolar Disorder,Mild,Combined Therapy,Improved,2024-11-05
+PAT00132,63,Male,Rubavu,Substance Abuse,Mild,Psychotherapy,Improved,2024-03-16
+PAT00133,32,Female,Huye,Substance Abuse,Mild,Combined Therapy,Improved,2022-08-23
+PAT00134,42,Male,Nyagatare,Schizophrenia,Moderate,Counseling,Improved,2024-04-15
+PAT00135,38,Female,Musanze,PTSD,Mild,Rehabilitation,Stable,2022-07-30
+PAT00136,48,Male,Rwamagana,Substance Abuse,Moderate,Counseling,Deteriorated,2023-09-25
+PAT00137,27,Male,Karongi,Anxiety Disorder,Mild,Psychotherapy,Stable,2022-03-18
+PAT00138,35,Female,Huye,Anxiety Disorder,Moderate,Counseling,Improved,2024-07-12
+PAT00139,71,Male,Rusizi,Depression,Mild,Rehabilitation,Improved,2024-02-20
+PAT00140,19,Female,Musanze,Substance Abuse,Severe,Psychotherapy,Improved,2024-04-06
+PAT00141,15,Male,Nyagatare,Depression,Severe,Psychotherapy,Deteriorated,2024-05-03
+PAT00142,77,Female,Gicumbi,PTSD,Mild,Medication,Stable,2022-11-24
+PAT00143,45,Female,Kigali City,Bipolar Disorder,Mild,Counseling,Improved,2023-06-20
+PAT00144,30,Female,Nyagatare,Bipolar Disorder,Mild,Combined Therapy,Improved,2023-08-16
+PAT00145,26,Male,Nyagatare,Schizophrenia,Moderate,Rehabilitation,Stable,2024-10-23
+PAT00146,32,Female,Rusizi,Bipolar Disorder,Severe,Combined Therapy,Improved,2024-01-18
+PAT00147,31,Male,Rusizi,Bipolar Disorder,Moderate,Combined Therapy,Deteriorated,2024-12-01
+PAT00148,79,Male,Rusizi,Schizophrenia,Moderate,Rehabilitation,Deteriorated,2022-04-02
+PAT00149,71,Male,Kigali City,Substance Abuse,Mild,Combined Therapy,Improved,2022-08-21
+PAT00150,79,Female,Kigali City,Schizophrenia,Moderate,Psychotherapy,Improved,2023-01-17
+PAT00151,62,Male,Gicumbi,Anxiety Disorder,Severe,Psychotherapy,Deteriorated,2023-12-06
+PAT00152,59,Female,Rwamagana,Bipolar Disorder,Severe,Rehabilitation,Improved,2024-08-29
+PAT00153,61,Female,Rusizi,Bipolar Disorder,Severe,Medication,Stable,2024-12-21
+PAT00154,60,Male,Huye,PTSD,Severe,Combined Therapy,Deteriorated,2022-09-22
+PAT00155,40,Female,Musanze,Anxiety Disorder,Mild,Psychotherapy,Stable,2022-08-12
+PAT00156,30,Female,Rwamagana,Schizophrenia,Mild,Counseling,Improved,2024-02-10
+PAT00157,47,Female,Huye,Substance Abuse,Mild,Medication,Improved,2022-09-15
+PAT00158,62,Female,Nyagatare,Anxiety Disorder,Moderate,Combined Therapy,Improved,2022-04-16
+PAT00159,70,Male,Karongi,Bipolar Disorder,Mild,Medication,Improved,2022-03-23
+PAT00160,59,Female,Musanze,Depression,Mild,Counseling,Improved,2023-02-25
+PAT00161,19,Female,Muhanga,Schizophrenia,Moderate,Medication,Improved,2024-01-12
+PAT00162,51,Male,Rusizi,PTSD,Moderate,Rehabilitation,Improved,2024-10-21
+PAT00163,31,Female,Rubavu,PTSD,Severe,Psychotherapy,Stable,2023-04-25
+PAT00164,28,Male,Nyagatare,Bipolar Disorder,Moderate,Counseling,Stable,2023-04-10
+PAT00165,49,Male,Kigali City,Anxiety Disorder,Mild,Combined Therapy,Improved,2024-07-21
+PAT00166,54,Female,Muhanga,Schizophrenia,Mild,Medication,Improved,2022-05-01
+PAT00167,68,Female,Huye,Schizophrenia,Severe,Counseling,Improved,2024-09-21
+PAT00168,31,Male,Rwamagana,Schizophrenia,Severe,Medication,Improved,2023-10-01
+PAT00169,38,Female,Nyagatare,Anxiety Disorder,Mild,Combined Therapy,Improved,2023-11-17
+PAT00170,15,Male,Musanze,PTSD,Mild,Rehabilitation,Improved,2023-03-20
+PAT00171,75,Female,Musanze,Bipolar Disorder,Mild,Medication,Improved,2022-03-02
+PAT00172,53,Female,Nyagatare,Substance Abuse,Mild,Rehabilitation,Improved,2022-06-14
+PAT00173,54,Male,Muhanga,Substance Abuse,Severe,Psychotherapy,Improved,2023-06-16
+PAT00174,40,Male,Huye,Depression,Moderate,Rehabilitation,Improved,2024-01-19
+PAT00175,57,Male,Kigali City,Bipolar Disorder,Severe,Counseling,Improved,2024-03-12
+PAT00176,68,Male,Karongi,Substance Abuse,Moderate,Medication,Improved,2022-05-12
+PAT00177,76,Male,Musanze,Bipolar Disorder,Severe,Combined Therapy,Stable,2023-12-24
+PAT00178,63,Male,Rusizi,PTSD,Moderate,Psychotherapy,Stable,2022-05-07
+PAT00179,18,Female,Musanze,Bipolar Disorder,Moderate,Rehabilitation,Improved,2022-07-08
+PAT00180,52,Male,Gicumbi,Anxiety Disorder,Mild,Combined Therapy,Improved,2022-12-07
+PAT00181,50,Female,Kigali City,Anxiety Disorder,Severe,Psychotherapy,Stable,2023-09-30
+PAT00182,58,Female,Kigali City,Schizophrenia,Mild,Rehabilitation,Deteriorated,2023-10-30
+PAT00183,76,Female,Rwamagana,Anxiety Disorder,Mild,Counseling,Improved,2024-10-24
+PAT00184,66,Female,Kigali City,Anxiety Disorder,Severe,Counseling,Improved,2023-08-23
+PAT00185,78,Male,Huye,Depression,Severe,Combined Therapy,Improved,2022-05-06
+PAT00186,24,Male,Rwamagana,Depression,Mild,Medication,Deteriorated,2022-06-04
+PAT00187,71,Male,Musanze,Depression,Severe,Medication,Improved,2022-05-10
+PAT00188,63,Female,Karongi,Bipolar Disorder,Severe,Counseling,Improved,2022-06-28
+PAT00189,60,Male,Kigali City,Bipolar Disorder,Moderate,Psychotherapy,Stable,2024-07-02
+PAT00190,37,Female,Gicumbi,Depression,Moderate,Psychotherapy,Stable,2023-05-27
+PAT00191,78,Female,Huye,PTSD,Moderate,Counseling,Stable,2023-06-10
+PAT00192,35,Female,Huye,PTSD,Moderate,Psychotherapy,Stable,2023-07-22
+PAT00193,27,Female,Huye,Schizophrenia,Severe,Rehabilitation,Improved,2024-07-19
+PAT00194,22,Female,Muhanga,PTSD,Mild,Combined Therapy,Improved,2024-03-17
+PAT00195,76,Female,Kigali City,Depression,Mild,Counseling,Deteriorated,2022-02-08
+PAT00196,57,Male,Muhanga,PTSD,Moderate,Counseling,Improved,2023-09-03
+PAT00197,28,Male,Rwamagana,Substance Abuse,Mild,Psychotherapy,Improved,2023-02-23
+PAT00198,65,Male,Nyagatare,Schizophrenia,Severe,Counseling,Improved,2022-08-18
+PAT00199,54,Female,Muhanga,Depression,Mild,Combined Therapy,Improved,2023-09-24
+PAT00200,45,Female,Rwamagana,Schizophrenia,Mild,Medication,Stable,2023-07-11
+PAT00201,58,Male,Karongi,Depression,Moderate,Combined Therapy,Improved,2022-03-24
+PAT00202,74,Male,Musanze,PTSD,Moderate,Psychotherapy,Deteriorated,2022-01-19
+PAT00203,28,Male,Nyagatare,Schizophrenia,Moderate,Medication,Improved,2023-12-09
+PAT00204,29,Male,Rwamagana,PTSD,Moderate,Medication,Improved,2022-09-02
+PAT00205,40,Female,Huye,Anxiety Disorder,Moderate,Combined Therapy,Improved,2024-05-29
+PAT00206,57,Male,Karongi,Bipolar Disorder,Mild,Combined Therapy,Improved,2023-03-31
+PAT00207,47,Female,Rubavu,Depression,Moderate,Psychotherapy,Improved,2023-03-26
+PAT00208,28,Male,Muhanga,Depression,Moderate,Counseling,Improved,2024-06-28
+PAT00209,55,Male,Karongi,PTSD,Severe,Medication,Deteriorated,2022-07-13
+PAT00210,24,Male,Rwamagana,Anxiety Disorder,Severe,Psychotherapy,Improved,2022-09-30
+PAT00211,53,Female,Nyagatare,Substance Abuse,Moderate,Medication,Improved,2023-07-23
+PAT00212,42,Female,Rusizi,Anxiety Disorder,Severe,Medication,Deteriorated,2024-04-11
+PAT00213,68,Male,Karongi,Substance Abuse,Moderate,Rehabilitation,Improved,2022-12-11
+PAT00214,32,Female,Nyagatare,Substance Abuse,Moderate,Rehabilitation,Improved,2024-11-04
+PAT00215,20,Male,Rusizi,Depression,Moderate,Rehabilitation,Improved,2022-09-27
+PAT00216,46,Female,Rwamagana,PTSD,Mild,Rehabilitation,Improved,2023-10-06
+PAT00217,16,Female,Kigali City,Substance Abuse,Moderate,Counseling,Improved,2024-03-22
+PAT00218,30,Female,Kigali City,PTSD,Mild,Rehabilitation,Improved,2022-03-29
+PAT00219,27,Female,Rwamagana,Substance Abuse,Moderate,Psychotherapy,Deteriorated,2024-03-27
+PAT00220,42,Female,Kigali City,Anxiety Disorder,Moderate,Psychotherapy,Improved,2022-11-02
+PAT00221,74,Male,Gicumbi,Anxiety Disorder,Mild,Counseling,Deteriorated,2022-01-04
+PAT00222,47,Male,Nyagatare,Anxiety Disorder,Mild,Counseling,Improved,2022-04-09
+PAT00223,70,Male,Gicumbi,Depression,Severe,Rehabilitation,Stable,2022-08-22
+PAT00224,57,Female,Huye,Schizophrenia,Mild,Counseling,Deteriorated,2022-12-02
+PAT00225,32,Male,Kigali City,PTSD,Severe,Psychotherapy,Improved,2023-11-06
+PAT00226,37,Female,Muhanga,Schizophrenia,Mild,Rehabilitation,Improved,2022-12-26
+PAT00227,53,Male,Muhanga,PTSD,Severe,Rehabilitation,Deteriorated,2023-11-16
+PAT00228,76,Male,Huye,Substance Abuse,Mild,Medication,Improved,2023-02-17
+PAT00229,38,Female,Rubavu,Depression,Mild,Combined Therapy,Improved,2023-05-27
+PAT00230,59,Female,Huye,Schizophrenia,Mild,Rehabilitation,Stable,2022-12-25
+PAT00231,51,Female,Huye,Anxiety Disorder,Mild,Psychotherapy,Improved,2023-12-11
+PAT00232,17,Female,Muhanga,Substance Abuse,Mild,Psychotherapy,Deteriorated,2022-10-25
+PAT00233,58,Female,Musanze,PTSD,Moderate,Combined Therapy,Improved,2022-07-05
+PAT00234,34,Male,Rwamagana,Anxiety Disorder,Mild,Counseling,Improved,2022-10-13
+PAT00235,48,Female,Gicumbi,Anxiety Disorder,Severe,Psychotherapy,Improved,2024-12-16
+PAT00236,47,Male,Muhanga,Substance Abuse,Mild,Medication,Stable,2024-08-25
+PAT00237,61,Female,Huye,Depression,Severe,Medication,Improved,2022-05-02
+PAT00238,16,Female,Rusizi,Anxiety Disorder,Moderate,Psychotherapy,Improved,2023-05-04
+PAT00239,76,Male,Karongi,Substance Abuse,Severe,Rehabilitation,Stable,2022-10-03
+PAT00240,66,Female,Musanze,Substance Abuse,Moderate,Psychotherapy,Improved,2024-09-18
+PAT00241,50,Male,Rusizi,PTSD,Mild,Counseling,Stable,2022-11-12
+PAT00242,17,Female,Nyagatare,Depression,Mild,Psychotherapy,Improved,2024-10-02
+PAT00243,39,Male,Karongi,Depression,Severe,Rehabilitation,Improved,2024-06-02
+PAT00244,36,Male,Muhanga,Depression,Severe,Counseling,Stable,2023-02-26
+PAT00245,43,Female,Nyagatare,PTSD,Moderate,Counseling,Deteriorated,2023-02-07
+PAT00246,24,Female,Karongi,Depression,Mild,Rehabilitation,Deteriorated,2023-04-17
+PAT00247,63,Female,Karongi,Schizophrenia,Moderate,Medication,Stable,2024-01-02
+PAT00248,32,Male,Rubavu,Substance Abuse,Mild,Combined Therapy,Improved,2024-12-30
+PAT00249,34,Female,Musanze,Bipolar Disorder,Severe,Medication,Stable,2024-02-20
+PAT00250,75,Female,Musanze,Substance Abuse,Mild,Medication,Improved,2024-08-11
+PAT00251,33,Male,Muhanga,PTSD,Mild,Medication,Improved,2024-08-22
+PAT00252,56,Female,Rubavu,Substance Abuse,Severe,Counseling,Stable,2023-03-25
+PAT00253,57,Female,Musanze,Schizophrenia,Moderate,Medication,Stable,2022-09-12
+PAT00254,72,Female,Karongi,Substance Abuse,Mild,Psychotherapy,Improved,2023-12-04
+PAT00255,62,Male,Muhanga,Depression,Severe,Psychotherapy,Deteriorated,2023-12-19
+PAT00256,58,Female,Nyagatare,Bipolar Disorder,Mild,Medication,Stable,2023-07-19
+PAT00257,23,Male,Muhanga,Schizophrenia,Moderate,Rehabilitation,Improved,2024-01-07
+PAT00258,78,Male,Rwamagana,Bipolar Disorder,Severe,Medication,Improved,2022-08-07
+PAT00259,60,Male,Gicumbi,Depression,Mild,Counseling,Improved,2023-07-08
+PAT00260,77,Male,Muhanga,Anxiety Disorder,Moderate,Psychotherapy,Improved,2023-12-28
+PAT00261,74,Female,Rwamagana,Substance Abuse,Mild,Medication,Deteriorated,2024-06-14
+PAT00262,64,Male,Huye,Depression,Mild,Medication,Deteriorated,2024-05-09
+PAT00263,37,Male,Rusizi,Schizophrenia,Mild,Combined Therapy,Improved,2023-11-21
+PAT00264,34,Male,Muhanga,Substance Abuse,Severe,Medication,Improved,2024-04-04
+PAT00265,52,Male,Gicumbi,PTSD,Severe,Counseling,Improved,2022-10-08
+PAT00266,49,Female,Rubavu,Depression,Severe,Combined Therapy,Deteriorated,2024-04-16
+PAT00267,32,Female,Musanze,PTSD,Mild,Combined Therapy,Improved,2022-08-10
+PAT00268,22,Female,Gicumbi,Depression,Moderate,Counseling,Stable,2024-12-21
+PAT00269,33,Female,Nyagatare,Substance Abuse,Severe,Counseling,Stable,2024-01-19
+PAT00270,67,Female,Karongi,Anxiety Disorder,Mild,Counseling,Stable,2023-04-18
+PAT00271,16,Female,Gicumbi,Bipolar Disorder,Severe,Medication,Improved,2023-07-30
+PAT00272,38,Female,Huye,Schizophrenia,Mild,Counseling,Improved,2022-04-05
+PAT00273,60,Female,Musanze,Depression,Severe,Combined Therapy,Improved,2024-08-04
+PAT00274,51,Male,Kigali City,Depression,Severe,Psychotherapy,Deteriorated,2024-10-21
+PAT00275,74,Female,Huye,Schizophrenia,Severe,Counseling,Improved,2022-03-07
+PAT00276,36,Male,Rusizi,Substance Abuse,Mild,Medication,Improved,2023-01-27
+PAT00277,31,Male,Musanze,PTSD,Severe,Counseling,Stable,2024-11-14
+PAT00278,71,Male,Rusizi,Schizophrenia,Mild,Counseling,Deteriorated,2023-09-04
+PAT00279,30,Female,Musanze,Depression,Moderate,Psychotherapy,Improved,2023-07-16
+PAT00280,26,Female,Gicumbi,Depression,Moderate,Counseling,Improved,2023-01-20
+PAT00281,20,Female,Muhanga,Substance Abuse,Mild,Psychotherapy,Deteriorated,2024-02-04
+PAT00282,67,Female,Kigali City,Depression,Moderate,Rehabilitation,Deteriorated,2024-05-25
+PAT00283,34,Male,Rusizi,Depression,Mild,Counseling,Stable,2023-07-23
+PAT00284,31,Female,Rwamagana,Schizophrenia,Moderate,Psychotherapy,Improved,2022-03-30
+PAT00285,46,Male,Gicumbi,Schizophrenia,Mild,Combined Therapy,Deteriorated,2023-01-03
+PAT00286,46,Female,Rubavu,Anxiety Disorder,Mild,Counseling,Stable,2023-10-28
+PAT00287,16,Male,Musanze,PTSD,Mild,Psychotherapy,Improved,2023-05-15
+PAT00288,53,Female,Nyagatare,Anxiety Disorder,Severe,Combined Therapy,Improved,2022-05-05
+PAT00289,77,Female,Karongi,Anxiety Disorder,Severe,Counseling,Deteriorated,2022-09-28
+PAT00290,51,Male,Nyagatare,Substance Abuse,Mild,Medication,Stable,2024-09-04
+PAT00291,46,Female,Muhanga,PTSD,Mild,Rehabilitation,Improved,2022-01-05
+PAT00292,74,Female,Rwamagana,Bipolar Disorder,Mild,Counseling,Improved,2024-05-14
+PAT00293,77,Male,Gicumbi,Depression,Mild,Rehabilitation,Improved,2024-02-08
+PAT00294,76,Female,Huye,Bipolar Disorder,Severe,Counseling,Stable,2023-05-16
+PAT00295,69,Female,Huye,Bipolar Disorder,Mild,Rehabilitation,Improved,2023-01-26
+PAT00296,17,Male,Musanze,Anxiety Disorder,Mild,Medication,Deteriorated,2024-06-07
+PAT00297,30,Male,Nyagatare,Schizophrenia,Moderate,Psychotherapy,Stable,2022-09-07
+PAT00298,61,Male,Rusizi,Anxiety Disorder,Mild,Rehabilitation,Stable,2024-06-03
+PAT00299,25,Male,Kigali City,Anxiety Disorder,Moderate,Psychotherapy,Improved,2024-01-28
+PAT00300,42,Female,Nyagatare,Depression,Moderate,Counseling,Stable,2023-08-06
+PAT00301,62,Male,Musanze,Anxiety Disorder,Moderate,Psychotherapy,Improved,2023-10-22
+PAT00302,37,Male,Huye,PTSD,Moderate,Counseling,Improved,2022-08-26
+PAT00303,19,Female,Gicumbi,Bipolar Disorder,Mild,Rehabilitation,Improved,2023-12-25
+PAT00304,23,Female,Huye,Bipolar Disorder,Moderate,Counseling,Deteriorated,2024-12-29
+PAT00305,68,Male,Gicumbi,Schizophrenia,Moderate,Psychotherapy,Improved,2024-11-10
+PAT00306,37,Male,Gicumbi,Schizophrenia,Moderate,Rehabilitation,Improved,2023-02-28
+PAT00307,63,Male,Rwamagana,Substance Abuse,Moderate,Combined Therapy,Stable,2022-01-15
+PAT00308,36,Female,Musanze,Schizophrenia,Moderate,Counseling,Stable,2023-08-15
+PAT00309,77,Female,Nyagatare,Bipolar Disorder,Severe,Rehabilitation,Improved,2022-12-18
+PAT00310,61,Female,Rwamagana,PTSD,Moderate,Combined Therapy,Improved,2023-03-27
+PAT00311,68,Male,Rwamagana,Anxiety Disorder,Severe,Medication,Deteriorated,2022-05-07
+PAT00312,49,Male,Rubavu,Substance Abuse,Mild,Psychotherapy,Improved,2022-04-03
+PAT00313,16,Male,Rusizi,PTSD,Moderate,Psychotherapy,Improved,2024-05-21
+PAT00314,24,Male,Huye,Schizophrenia,Severe,Medication,Deteriorated,2024-09-19
+PAT00315,75,Female,Huye,Substance Abuse,Severe,Medication,Stable,2023-10-14
+PAT00316,27,Male,Rubavu,Anxiety Disorder,Moderate,Combined Therapy,Stable,2023-02-25
+PAT00317,45,Female,Muhanga,Depression,Moderate,Rehabilitation,Improved,2023-09-12
+PAT00318,38,Female,Huye,Substance Abuse,Mild,Psychotherapy,Improved,2022-01-06
+PAT00319,48,Male,Musanze,PTSD,Mild,Combined Therapy,Improved,2023-03-24
+PAT00320,69,Male,Nyagatare,PTSD,Severe,Medication,Improved,2022-12-15
+PAT00321,46,Male,Rwamagana,Substance Abuse,Severe,Counseling,Improved,2022-09-21
+PAT00322,53,Male,Muhanga,Anxiety Disorder,Moderate,Psychotherapy,Stable,2024-05-31
+PAT00323,20,Male,Gicumbi,Schizophrenia,Moderate,Counseling,Improved,2024-03-02
+PAT00324,51,Female,Rubavu,Schizophrenia,Mild,Psychotherapy,Stable,2022-03-19
+PAT00325,45,Male,Musanze,PTSD,Mild,Counseling,Improved,2022-09-04
+PAT00326,16,Male,Muhanga,PTSD,Moderate,Medication,Stable,2024-08-19
+PAT00327,60,Female,Karongi,Anxiety Disorder,Severe,Counseling,Improved,2023-12-10
+PAT00328,47,Female,Rubavu,Depression,Mild,Psychotherapy,Stable,2023-12-10
+PAT00329,58,Female,Rwamagana,Schizophrenia,Severe,Medication,Improved,2023-06-22
+PAT00330,75,Female,Rwamagana,Depression,Mild,Combined Therapy,Deteriorated,2022-05-19
+PAT00331,34,Male,Kigali City,PTSD,Moderate,Psychotherapy,Improved,2022-10-29
+PAT00332,63,Female,Gicumbi,Schizophrenia,Moderate,Rehabilitation,Stable,2023-11-07
+PAT00333,23,Female,Gicumbi,Schizophrenia,Mild,Rehabilitation,Stable,2024-01-14
+PAT00334,68,Female,Rusizi,Schizophrenia,Severe,Medication,Deteriorated,2024-10-27
+PAT00335,41,Female,Kigali City,Substance Abuse,Moderate,Psychotherapy,Improved,2024-08-27
+PAT00336,75,Female,Kigali City,Anxiety Disorder,Severe,Psychotherapy,Stable,2022-05-31
+PAT00337,45,Male,Kigali City,PTSD,Mild,Rehabilitation,Improved,2022-11-03
+PAT00338,36,Female,Huye,Substance Abuse,Severe,Medication,Improved,2023-03-09
+PAT00339,16,Male,Muhanga,PTSD,Severe,Combined Therapy,Deteriorated,2022-11-06
+PAT00340,57,Female,Gicumbi,Anxiety Disorder,Mild,Counseling,Improved,2022-08-08
+PAT00341,44,Male,Kigali City,Depression,Mild,Medication,Stable,2024-08-02
+PAT00342,32,Female,Karongi,Schizophrenia,Mild,Psychotherapy,Improved,2023-02-16
+PAT00343,67,Female,Musanze,Bipolar Disorder,Severe,Rehabilitation,Improved,2023-12-10
+PAT00344,77,Female,Muhanga,PTSD,Mild,Medication,Improved,2024-09-22
+PAT00345,26,Female,Muhanga,Schizophrenia,Severe,Psychotherapy,Stable,2022-06-03
+PAT00346,77,Male,Huye,PTSD,Severe,Medication,Improved,2023-06-26
+PAT00347,60,Male,Nyagatare,Schizophrenia,Severe,Medication,Deteriorated,2023-06-08
+PAT00348,26,Male,Muhanga,Schizophrenia,Severe,Rehabilitation,Deteriorated,2022-02-22
+PAT00349,54,Male,Musanze,Substance Abuse,Severe,Counseling,Stable,2022-08-18
+PAT00350,70,Female,Kigali City,Schizophrenia,Mild,Medication,Improved,2023-12-08
+PAT00351,58,Female,Muhanga,Depression,Moderate,Counseling,Stable,2024-10-15
+PAT00352,67,Female,Nyagatare,Bipolar Disorder,Mild,Combined Therapy,Deteriorated,2024-04-06
+PAT00353,26,Male,Rubavu,Schizophrenia,Severe,Rehabilitation,Improved,2022-12-12
+PAT00354,47,Male,Karongi,Substance Abuse,Mild,Rehabilitation,Improved,2022-07-20
+PAT00355,72,Male,Rubavu,Anxiety Disorder,Severe,Counseling,Stable,2023-01-18
+PAT00356,75,Female,Nyagatare,Depression,Mild,Psychotherapy,Stable,2023-10-05
+PAT00357,67,Male,Gicumbi,PTSD,Severe,Combined Therapy,Stable,2024-11-24
+PAT00358,58,Male,Rusizi,Depression,Severe,Psychotherapy,Improved,2024-05-05
+PAT00359,42,Male,Huye,Schizophrenia,Mild,Medication,Improved,2022-04-08
+PAT00360,20,Male,Rubavu,Bipolar Disorder,Mild,Medication,Improved,2023-01-20
+PAT00361,29,Female,Nyagatare,PTSD,Severe,Medication,Improved,2024-10-11
+PAT00362,23,Female,Nyagatare,Depression,Moderate,Medication,Improved,2024-07-14
+PAT00363,68,Female,Rubavu,Substance Abuse,Moderate,Counseling,Improved,2022-10-16
+PAT00364,62,Female,Huye,Substance Abuse,Severe,Counseling,Deteriorated,2022-10-16
+PAT00365,18,Male,Gicumbi,Schizophrenia,Mild,Combined Therapy,Improved,2023-05-11
+PAT00366,49,Female,Karongi,Schizophrenia,Mild,Psychotherapy,Improved,2024-04-11
+PAT00367,78,Female,Karongi,Schizophrenia,Moderate,Counseling,Improved,2023-03-13
+PAT00368,41,Female,Huye,Bipolar Disorder,Moderate,Rehabilitation,Deteriorated,2024-02-02
+PAT00369,52,Female,Musanze,Schizophrenia,Moderate,Psychotherapy,Improved,2024-04-27
+PAT00370,41,Male,Huye,Substance Abuse,Severe,Medication,Improved,2022-03-14
+PAT00371,43,Male,Muhanga,Schizophrenia,Moderate,Counseling,Deteriorated,2022-04-29
+PAT00372,34,Male,Karongi,Depression,Severe,Combined Therapy,Stable,2022-10-01
+PAT00373,45,Male,Rwamagana,Depression,Mild,Counseling,Improved,2024-07-31
+PAT00374,73,Male,Kigali City,Bipolar Disorder,Moderate,Rehabilitation,Deteriorated,2022-12-04
+PAT00375,27,Female,Rwamagana,Substance Abuse,Moderate,Counseling,Improved,2023-01-25
+PAT00376,37,Male,Karongi,Anxiety Disorder,Severe,Rehabilitation,Improved,2023-02-20
+PAT00377,16,Male,Musanze,PTSD,Mild,Rehabilitation,Improved,2024-02-14
+PAT00378,67,Male,Musanze,Bipolar Disorder,Mild,Psychotherapy,Stable,2022-11-23
+PAT00379,65,Female,Kigali City,Depression,Moderate,Medication,Stable,2022-12-08
+PAT00380,66,Male,Huye,Bipolar Disorder,Severe,Combined Therapy,Stable,2022-06-09
+PAT00381,68,Female,Musanze,Depression,Severe,Rehabilitation,Improved,2023-06-19
+PAT00382,62,Female,Rusizi,Depression,Moderate,Combined Therapy,Improved,2023-08-15
+PAT00383,66,Female,Muhanga,PTSD,Mild,Combined Therapy,Improved,2024-03-07
+PAT00384,46,Female,Rubavu,Depression,Mild,Combined Therapy,Improved,2024-06-03
+PAT00385,63,Male,Rusizi,Bipolar Disorder,Severe,Counseling,Improved,2023-12-22
+PAT00386,75,Female,Rubavu,Depression,Severe,Rehabilitation,Improved,2023-11-25
+PAT00387,35,Female,Gicumbi,Schizophrenia,Mild,Medication,Stable,2023-07-31
+PAT00388,25,Female,Rubavu,Bipolar Disorder,Moderate,Medication,Stable,2023-08-10
+PAT00389,68,Female,Karongi,Bipolar Disorder,Severe,Psychotherapy,Stable,2022-09-08
+PAT00390,54,Female,Gicumbi,PTSD,Moderate,Medication,Improved,2022-08-12
+PAT00391,57,Female,Rubavu,Substance Abuse,Moderate,Medication,Improved,2024-05-25
+PAT00392,19,Female,Musanze,Anxiety Disorder,Mild,Counseling,Improved,2023-03-20
+PAT00393,78,Male,Karongi,Anxiety Disorder,Severe,Psychotherapy,Improved,2024-06-06
+PAT00394,58,Male,Rwamagana,Substance Abuse,Mild,Psychotherapy,Improved,2024-09-06
+PAT00395,16,Male,Rwamagana,Anxiety Disorder,Severe,Rehabilitation,Improved,2023-12-02
+PAT00396,22,Female,Huye,PTSD,Severe,Psychotherapy,Stable,2022-01-20
+PAT00397,72,Female,Muhanga,Depression,Moderate,Psychotherapy,Improved,2023-04-16
+PAT00398,33,Male,Karongi,PTSD,Moderate,Combined Therapy,Improved,2023-12-18
+PAT00399,59,Male,Huye,Anxiety Disorder,Mild,Rehabilitation,Improved,2023-04-22
+PAT00400,58,Female,Muhanga,Substance Abuse,Mild,Medication,Stable,2022-09-10
+PAT00401,70,Female,Rusizi,Bipolar Disorder,Moderate,Counseling,Improved,2024-01-27
+PAT00402,63,Male,Muhanga,Anxiety Disorder,Mild,Medication,Improved,2024-04-12
+PAT00403,79,Female,Nyagatare,PTSD,Moderate,Medication,Improved,2023-12-25
+PAT00404,35,Male,Muhanga,PTSD,Severe,Psychotherapy,Improved,2022-04-29
+PAT00405,29,Female,Kigali City,Schizophrenia,Severe,Rehabilitation,Stable,2022-11-10
+PAT00406,57,Male,Musanze,PTSD,Mild,Psychotherapy,Improved,2022-08-22
+PAT00407,77,Female,Rwamagana,PTSD,Mild,Medication,Improved,2022-11-24
+PAT00408,75,Male,Rwamagana,PTSD,Mild,Psychotherapy,Improved,2023-05-05
+PAT00409,52,Female,Huye,Substance Abuse,Mild,Medication,Improved,2023-07-09
+PAT00410,49,Male,Karongi,Anxiety Disorder,Severe,Psychotherapy,Improved,2023-10-09
+PAT00411,75,Female,Kigali City,Schizophrenia,Severe,Medication,Improved,2024-08-05
+PAT00412,17,Male,Gicumbi,Schizophrenia,Severe,Counseling,Stable,2022-05-03
+PAT00413,62,Male,Kigali City,Anxiety Disorder,Mild,Medication,Deteriorated,2022-08-02
+PAT00414,67,Female,Rubavu,Substance Abuse,Mild,Combined Therapy,Improved,2022-08-11
+PAT00415,60,Female,Nyagatare,Depression,Mild,Medication,Improved,2022-11-10
+PAT00416,41,Male,Rwamagana,PTSD,Severe,Medication,Improved,2022-04-27
+PAT00417,55,Female,Huye,Schizophrenia,Moderate,Medication,Improved,2022-03-27
+PAT00418,22,Female,Rusizi,Schizophrenia,Mild,Rehabilitation,Improved,2022-09-04
+PAT00419,55,Male,Huye,PTSD,Severe,Rehabilitation,Improved,2023-12-11
+PAT00420,58,Male,Karongi,Anxiety Disorder,Moderate,Combined Therapy,Stable,2022-01-29
+PAT00421,57,Male,Musanze,Bipolar Disorder,Severe,Medication,Deteriorated,2024-01-09
+PAT00422,51,Male,Muhanga,PTSD,Moderate,Combined Therapy,Improved,2023-05-14
+PAT00423,46,Male,Huye,Substance Abuse,Mild,Rehabilitation,Improved,2022-06-16
+PAT00424,64,Male,Muhanga,Substance Abuse,Mild,Psychotherapy,Improved,2023-08-01
+PAT00425,19,Male,Rusizi,Bipolar Disorder,Moderate,Combined Therapy,Stable,2024-02-25
+PAT00426,72,Female,Gicumbi,Depression,Severe,Combined Therapy,Improved,2022-03-24
+PAT00427,20,Female,Musanze,Bipolar Disorder,Moderate,Psychotherapy,Improved,2023-05-18
+PAT00428,54,Male,Huye,Bipolar Disorder,Severe,Combined Therapy,Improved,2024-06-14
+PAT00429,53,Male,Karongi,Schizophrenia,Moderate,Rehabilitation,Stable,2023-05-27
+PAT00430,75,Female,Musanze,Anxiety Disorder,Moderate,Combined Therapy,Improved,2022-05-18
+PAT00431,29,Male,Muhanga,Schizophrenia,Mild,Combined Therapy,Improved,2022-07-20
+PAT00432,78,Female,Nyagatare,Anxiety Disorder,Moderate,Medication,Deteriorated,2022-07-10
+PAT00433,50,Male,Muhanga,Depression,Moderate,Combined Therapy,Stable,2024-07-02
+PAT00434,34,Female,Huye,PTSD,Mild,Psychotherapy,Improved,2024-07-03
+PAT00435,19,Female,Gicumbi,Bipolar Disorder,Mild,Psychotherapy,Improved,2023-05-15
+PAT00436,58,Female,Rusizi,PTSD,Moderate,Rehabilitation,Improved,2023-11-15
+PAT00437,52,Male,Rubavu,PTSD,Mild,Combined Therapy,Stable,2022-06-28
+PAT00438,17,Female,Rubavu,Depression,Moderate,Rehabilitation,Stable,2022-02-12
+PAT00439,24,Female,Rwamagana,Anxiety Disorder,Mild,Medication,Improved,2022-08-29
+PAT00440,30,Female,Muhanga,Substance Abuse,Mild,Psychotherapy,Stable,2022-04-01
+PAT00441,28,Female,Muhanga,PTSD,Moderate,Combined Therapy,Improved,2022-05-28
+PAT00442,52,Female,Muhanga,Depression,Severe,Combined Therapy,Improved,2023-05-29
+PAT00443,55,Female,Nyagatare,Anxiety Disorder,Moderate,Counseling,Improved,2023-10-10
+PAT00444,23,Female,Kigali City,Schizophrenia,Moderate,Psychotherapy,Stable,2024-07-28
+PAT00445,50,Female,Rubavu,Depression,Moderate,Medication,Improved,2022-07-23
+PAT00446,37,Male,Huye,Anxiety Disorder,Severe,Rehabilitation,Improved,2024-08-19
+PAT00447,65,Male,Rubavu,PTSD,Moderate,Psychotherapy,Improved,2022-01-11
+PAT00448,75,Male,Muhanga,Depression,Severe,Psychotherapy,Improved,2023-09-11
+PAT00449,40,Male,Kigali City,Bipolar Disorder,Moderate,Counseling,Stable,2023-12-05
+PAT00450,46,Male,Rubavu,Schizophrenia,Mild,Psychotherapy,Improved,2024-07-03
+PAT00451,75,Female,Muhanga,Anxiety Disorder,Mild,Counseling,Improved,2022-07-07
+PAT00452,51,Male,Karongi,Schizophrenia,Severe,Rehabilitation,Improved,2024-05-18
+PAT00453,60,Female,Muhanga,Depression,Mild,Combined Therapy,Improved,2023-12-14
+PAT00454,62,Female,Karongi,Depression,Moderate,Combined Therapy,Improved,2022-07-10
+PAT00455,64,Male,Rubavu,Substance Abuse,Mild,Rehabilitation,Improved,2024-01-06
+PAT00456,28,Female,Rwamagana,Bipolar Disorder,Mild,Rehabilitation,Improved,2024-02-25
+PAT00457,56,Female,Rubavu,Depression,Moderate,Psychotherapy,Improved,2023-06-05
+PAT00458,66,Male,Huye,Anxiety Disorder,Mild,Combined Therapy,Improved,2023-03-11
+PAT00459,27,Male,Rubavu,Bipolar Disorder,Severe,Psychotherapy,Improved,2024-10-25
+PAT00460,26,Male,Karongi,Depression,Mild,Psychotherapy,Improved,2024-01-27
+PAT00461,53,Female,Huye,Substance Abuse,Severe,Combined Therapy,Deteriorated,2023-08-24
+PAT00462,57,Male,Kigali City,Depression,Mild,Medication,Deteriorated,2022-07-30
+PAT00463,38,Male,Musanze,Depression,Mild,Psychotherapy,Improved,2024-10-06
+PAT00464,58,Male,Kigali City,Substance Abuse,Moderate,Combined Therapy,Stable,2024-11-29
+PAT00465,51,Male,Gicumbi,Depression,Severe,Combined Therapy,Stable,2023-09-14
+PAT00466,28,Male,Karongi,Anxiety Disorder,Severe,Combined Therapy,Improved,2022-12-09
+PAT00467,43,Female,Karongi,Schizophrenia,Moderate,Psychotherapy,Stable,2024-06-02
+PAT00468,46,Female,Rubavu,Bipolar Disorder,Severe,Rehabilitation,Deteriorated,2022-04-16
+PAT00469,51,Female,Nyagatare,PTSD,Moderate,Medication,Deteriorated,2022-10-28
+PAT00470,80,Male,Gicumbi,Bipolar Disorder,Moderate,Rehabilitation,Improved,2024-12-17
+PAT00471,63,Male,Rwamagana,Schizophrenia,Mild,Rehabilitation,Improved,2022-03-04
+PAT00472,34,Male,Kigali City,Substance Abuse,Severe,Counseling,Deteriorated,2023-06-26
+PAT00473,31,Female,Musanze,Substance Abuse,Mild,Combined Therapy,Stable,2023-09-30
+PAT00474,51,Female,Rubavu,Anxiety Disorder,Mild,Psychotherapy,Stable,2022-10-10
+PAT00475,41,Male,Kigali City,Depression,Moderate,Combined Therapy,Improved,2022-09-14
+PAT00476,72,Female,Kigali City,PTSD,Mild,Combined Therapy,Deteriorated,2024-10-16
+PAT00477,40,Male,Rusizi,Bipolar Disorder,Mild,Rehabilitation,Improved,2023-12-13
+PAT00478,48,Female,Karongi,Depression,Mild,Counseling,Improved,2024-10-13
+PAT00479,68,Male,Musanze,Depression,Severe,Psychotherapy,Improved,2022-09-10
+PAT00480,18,Female,Rwamagana,Substance Abuse,Moderate,Rehabilitation,Stable,2022-04-22
+PAT00481,44,Male,Karongi,Schizophrenia,Mild,Medication,Improved,2024-01-02
+PAT00482,57,Male,Nyagatare,Anxiety Disorder,Severe,Counseling,Stable,2024-12-12
+PAT00483,41,Female,Musanze,Substance Abuse,Severe,Medication,Stable,2024-07-27
+PAT00484,40,Female,Huye,Bipolar Disorder,Moderate,Psychotherapy,Deteriorated,2024-04-19
+PAT00485,79,Male,Nyagatare,Substance Abuse,Severe,Rehabilitation,Improved,2023-06-12
+PAT00486,34,Female,Rwamagana,Depression,Severe,Counseling,Stable,2024-11-02
+PAT00487,25,Female,Rubavu,Bipolar Disorder,Mild,Psychotherapy,Stable,2024-08-09
+PAT00488,18,Male,Nyagatare,Substance Abuse,Moderate,Psychotherapy,Improved,2023-11-20
+PAT00489,23,Male,Rwamagana,Anxiety Disorder,Mild,Medication,Stable,2022-07-04
+PAT00490,79,Female,Musanze,Depression,Mild,Counseling,Deteriorated,2022-08-17
+PAT00491,43,Male,Karongi,Anxiety Disorder,Mild,Medication,Deteriorated,2024-04-17
+PAT00492,78,Female,Kigali City,Depression,Severe,Counseling,Improved,2022-04-28
+PAT00493,79,Male,Karongi,Depression,Mild,Combined Therapy,Improved,2024-01-23
+PAT00494,61,Female,Huye,Depression,Moderate,Counseling,Stable,2023-02-28
+PAT00495,64,Male,Muhanga,Substance Abuse,Moderate,Rehabilitation,Stable,2023-08-10
+PAT00496,56,Female,Nyagatare,PTSD,Moderate,Counseling,Stable,2024-11-29
+PAT00497,75,Male,Rubavu,Anxiety Disorder,Mild,Counseling,Improved,2022-07-04
+PAT00498,69,Female,Kigali City,Depression,Moderate,Combined Therapy,Improved,2024-10-04
+PAT00499,47,Male,Huye,PTSD,Severe,Combined Therapy,Improved,2024-06-05
+PAT00500,40,Female,Rubavu,Substance Abuse,Mild,Counseling,Improved,2023-06-08
+PAT00501,30,Female,Huye,Substance Abuse,Moderate,Medication,Improved,2022-11-02
+PAT00502,24,Female,Karongi,Schizophrenia,Moderate,Rehabilitation,Improved,2023-09-29
+PAT00503,15,Female,Karongi,Anxiety Disorder,Mild,Medication,Improved,2022-06-24
+PAT00504,72,Female,Nyagatare,Bipolar Disorder,Moderate,Counseling,Improved,2024-10-04
+PAT00505,50,Male,Huye,Depression,Moderate,Counseling,Improved,2023-10-10
+PAT00506,41,Male,Gicumbi,Depression,Severe,Rehabilitation,Deteriorated,2024-08-31
+PAT00507,50,Female,Gicumbi,Substance Abuse,Severe,Combined Therapy,Improved,2023-03-03
+PAT00508,20,Male,Rusizi,Schizophrenia,Moderate,Rehabilitation,Improved,2022-02-16
+PAT00509,15,Male,Kigali City,Bipolar Disorder,Mild,Rehabilitation,Improved,2022-01-26
+PAT00510,59,Female,Rwamagana,Bipolar Disorder,Mild,Counseling,Improved,2022-02-03
+PAT00511,22,Female,Gicumbi,PTSD,Mild,Psychotherapy,Improved,2024-04-30
+PAT00512,17,Female,Rubavu,PTSD,Mild,Psychotherapy,Improved,2024-07-18
+PAT00513,56,Male,Rusizi,PTSD,Moderate,Counseling,Stable,2023-11-17
+PAT00514,54,Male,Huye,Schizophrenia,Moderate,Counseling,Improved,2022-12-18
+PAT00515,72,Female,Karongi,Anxiety Disorder,Mild,Combined Therapy,Improved,2023-09-09
+PAT00516,31,Male,Muhanga,Depression,Mild,Counseling,Stable,2023-01-25
+PAT00517,69,Female,Muhanga,Depression,Mild,Medication,Stable,2022-06-23
+PAT00518,72,Female,Muhanga,Bipolar Disorder,Severe,Combined Therapy,Stable,2023-03-22
+PAT00519,43,Male,Rubavu,Schizophrenia,Moderate,Combined Therapy,Improved,2022-10-15
+PAT00520,47,Female,Muhanga,Substance Abuse,Moderate,Counseling,Stable,2023-03-31
+PAT00521,54,Female,Nyagatare,Substance Abuse,Moderate,Rehabilitation,Improved,2024-11-18
+PAT00522,57,Female,Rusizi,Anxiety Disorder,Moderate,Medication,Improved,2023-09-16
+PAT00523,52,Male,Nyagatare,Bipolar Disorder,Moderate,Psychotherapy,Improved,2024-08-13
+PAT00524,70,Female,Rubavu,PTSD,Moderate,Counseling,Improved,2023-12-01
+PAT00525,17,Male,Kigali City,Bipolar Disorder,Moderate,Counseling,Improved,2023-04-03
+PAT00526,20,Female,Muhanga,Schizophrenia,Mild,Counseling,Stable,2023-01-05
+PAT00527,35,Female,Muhanga,Depression,Moderate,Medication,Improved,2023-10-26
+PAT00528,18,Male,Nyagatare,Anxiety Disorder,Severe,Combined Therapy,Improved,2023-02-26
+PAT00529,19,Female,Gicumbi,Depression,Moderate,Medication,Stable,2022-06-14
+PAT00530,38,Female,Gicumbi,Bipolar Disorder,Moderate,Medication,Stable,2022-06-22
+PAT00531,54,Female,Gicumbi,Anxiety Disorder,Severe,Medication,Deteriorated,2023-07-19
+PAT00532,38,Male,Rubavu,Schizophrenia,Moderate,Combined Therapy,Deteriorated,2024-10-21
+PAT00533,18,Female,Rusizi,Bipolar Disorder,Mild,Counseling,Improved,2024-02-14
+PAT00534,62,Male,Rusizi,Schizophrenia,Severe,Combined Therapy,Stable,2022-05-26
+PAT00535,73,Female,Rusizi,Depression,Moderate,Counseling,Stable,2022-11-21
+PAT00536,64,Male,Musanze,Depression,Moderate,Psychotherapy,Deteriorated,2024-08-03
+PAT00537,29,Female,Musanze,PTSD,Mild,Medication,Stable,2023-05-15
+PAT00538,19,Female,Huye,Depression,Mild,Medication,Improved,2024-12-13
+PAT00539,59,Male,Rusizi,Schizophrenia,Mild,Rehabilitation,Stable,2022-05-03
+PAT00540,74,Male,Rwamagana,Schizophrenia,Mild,Psychotherapy,Improved,2023-10-08
+PAT00541,24,Female,Musanze,Depression,Severe,Combined Therapy,Improved,2023-10-07
+PAT00542,80,Female,Muhanga,PTSD,Mild,Rehabilitation,Improved,2022-08-03
+PAT00543,75,Male,Musanze,Schizophrenia,Mild,Psychotherapy,Stable,2023-06-28
+PAT00544,75,Female,Karongi,Depression,Severe,Medication,Improved,2023-01-26
+PAT00545,43,Female,Rwamagana,Bipolar Disorder,Mild,Psychotherapy,Improved,2024-09-27
+PAT00546,19,Female,Rubavu,PTSD,Moderate,Rehabilitation,Improved,2024-03-20
+PAT00547,44,Female,Rusizi,Substance Abuse,Severe,Counseling,Improved,2023-11-24
+PAT00548,67,Male,Nyagatare,PTSD,Severe,Rehabilitation,Improved,2022-08-28
+PAT00549,53,Female,Karongi,PTSD,Mild,Rehabilitation,Improved,2022-09-06
+PAT00550,50,Male,Rubavu,PTSD,Moderate,Psychotherapy,Improved,2023-02-22
+PAT00551,29,Male,Nyagatare,Substance Abuse,Severe,Combined Therapy,Improved,2024-10-20
+PAT00552,21,Female,Rubavu,Schizophrenia,Mild,Combined Therapy,Improved,2022-03-12
+PAT00553,18,Male,Rwamagana,Anxiety Disorder,Mild,Combined Therapy,Deteriorated,2023-09-14
+PAT00554,45,Male,Huye,Bipolar Disorder,Severe,Rehabilitation,Improved,2024-04-17
+PAT00555,70,Female,Huye,PTSD,Moderate,Counseling,Deteriorated,2023-06-27
+PAT00556,76,Female,Gicumbi,PTSD,Mild,Combined Therapy,Improved,2022-10-29
+PAT00557,27,Male,Gicumbi,Bipolar Disorder,Severe,Counseling,Improved,2023-06-27
+PAT00558,46,Male,Kigali City,Depression,Moderate,Counseling,Improved,2024-02-18
+PAT00559,70,Male,Kigali City,Bipolar Disorder,Mild,Medication,Stable,2024-05-03
+PAT00560,17,Male,Muhanga,Bipolar Disorder,Mild,Psychotherapy,Improved,2023-04-21
+PAT00561,70,Female,Musanze,Schizophrenia,Moderate,Psychotherapy,Improved,2022-06-24
+PAT00562,24,Female,Nyagatare,Anxiety Disorder,Mild,Combined Therapy,Deteriorated,2024-04-18
+PAT00563,73,Male,Rubavu,PTSD,Mild,Psychotherapy,Stable,2024-05-03
+PAT00564,21,Male,Nyagatare,Bipolar Disorder,Moderate,Psychotherapy,Improved,2024-02-23
+PAT00565,67,Male,Rusizi,PTSD,Mild,Counseling,Stable,2024-08-06
+PAT00566,45,Female,Rwamagana,Substance Abuse,Mild,Rehabilitation,Stable,2022-09-11
+PAT00567,76,Female,Rwamagana,Substance Abuse,Moderate,Counseling,Improved,2022-07-18
+PAT00568,32,Male,Nyagatare,Schizophrenia,Mild,Medication,Stable,2023-03-24
+PAT00569,80,Female,Rwamagana,Bipolar Disorder,Moderate,Psychotherapy,Improved,2022-09-22
+PAT00570,51,Male,Nyagatare,Depression,Moderate,Rehabilitation,Improved,2023-02-23
+PAT00571,42,Female,Gicumbi,Substance Abuse,Severe,Combined Therapy,Stable,2022-12-29
+PAT00572,70,Female,Nyagatare,Depression,Moderate,Combined Therapy,Deteriorated,2022-05-08
+PAT00573,18,Female,Karongi,PTSD,Severe,Combined Therapy,Improved,2023-08-14
+PAT00574,80,Female,Rwamagana,PTSD,Moderate,Counseling,Improved,2024-06-10
+PAT00575,32,Male,Huye,Substance Abuse,Moderate,Psychotherapy,Improved,2024-11-11
+PAT00576,73,Female,Nyagatare,Substance Abuse,Severe,Psychotherapy,Improved,2024-12-18
+PAT00577,62,Male,Rusizi,Depression,Mild,Rehabilitation,Stable,2022-10-08
+PAT00578,73,Female,Huye,Bipolar Disorder,Moderate,Rehabilitation,Deteriorated,2022-04-25
+PAT00579,50,Female,Gicumbi,Bipolar Disorder,Mild,Medication,Deteriorated,2022-07-23
+PAT00580,70,Female,Rwamagana,Depression,Mild,Medication,Improved,2023-07-21
+PAT00581,48,Female,Kigali City,Schizophrenia,Moderate,Counseling,Improved,2024-04-19
+PAT00582,78,Female,Huye,Depression,Severe,Counseling,Improved,2024-09-10
+PAT00583,35,Male,Muhanga,Substance Abuse,Moderate,Counseling,Deteriorated,2024-06-25
+PAT00584,57,Male,Musanze,Anxiety Disorder,Moderate,Counseling,Deteriorated,2022-08-10
+PAT00585,55,Female,Rubavu,Substance Abuse,Moderate,Medication,Improved,2024-01-24
+PAT00586,26,Male,Rwamagana,Depression,Severe,Combined Therapy,Improved,2022-05-18
+PAT00587,66,Female,Muhanga,Anxiety Disorder,Moderate,Medication,Improved,2022-02-05
+PAT00588,55,Female,Gicumbi,Bipolar Disorder,Moderate,Rehabilitation,Deteriorated,2023-04-11
+PAT00589,31,Male,Huye,Substance Abuse,Moderate,Rehabilitation,Deteriorated,2022-09-22
+PAT00590,20,Male,Rubavu,Depression,Moderate,Rehabilitation,Deteriorated,2022-07-26
+PAT00591,51,Male,Muhanga,Bipolar Disorder,Mild,Counseling,Deteriorated,2023-09-25
+PAT00592,36,Female,Nyagatare,PTSD,Mild,Medication,Improved,2024-01-03
+PAT00593,38,Female,Kigali City,Anxiety Disorder,Moderate,Psychotherapy,Improved,2023-05-22
+PAT00594,36,Male,Rusizi,Schizophrenia,Mild,Combined Therapy,Improved,2022-10-05
+PAT00595,67,Male,Huye,Depression,Severe,Combined Therapy,Improved,2023-06-04
+PAT00596,21,Female,Rusizi,Bipolar Disorder,Mild,Counseling,Improved,2024-09-16
+PAT00597,74,Male,Rwamagana,Substance Abuse,Mild,Medication,Improved,2023-03-04
+PAT00598,40,Female,Musanze,PTSD,Moderate,Rehabilitation,Improved,2022-07-01
+PAT00599,32,Female,Rwamagana,Substance Abuse,Mild,Counseling,Improved,2022-09-10
+PAT00600,31,Female,Nyagatare,Schizophrenia,Severe,Psychotherapy,Improved,2022-01-23
+PAT00601,33,Male,Muhanga,Bipolar Disorder,Mild,Medication,Improved,2022-02-11
+PAT00602,22,Female,Rusizi,PTSD,Mild,Medication,Stable,2024-10-06
+PAT00603,31,Female,Rusizi,Bipolar Disorder,Mild,Rehabilitation,Stable,2022-10-10
+PAT00604,25,Male,Gicumbi,Anxiety Disorder,Mild,Counseling,Improved,2024-12-14
+PAT00605,62,Male,Huye,Anxiety Disorder,Severe,Psychotherapy,Improved,2024-01-12
+PAT00606,61,Male,Kigali City,Schizophrenia,Mild,Psychotherapy,Deteriorated,2022-04-24
+PAT00607,78,Male,Kigali City,Depression,Moderate,Medication,Improved,2024-09-09
+PAT00608,27,Female,Rusizi,Depression,Mild,Psychotherapy,Improved,2022-08-16
+PAT00609,15,Female,Gicumbi,Schizophrenia,Mild,Psychotherapy,Improved,2022-03-20
+PAT00610,29,Female,Huye,Substance Abuse,Mild,Combined Therapy,Stable,2022-10-04
+PAT00611,30,Male,Gicumbi,Anxiety Disorder,Severe,Rehabilitation,Improved,2023-02-18
+PAT00612,26,Male,Rubavu,PTSD,Mild,Combined Therapy,Improved,2023-04-23
+PAT00613,21,Female,Nyagatare,Schizophrenia,Mild,Rehabilitation,Stable,2022-01-21
+PAT00614,72,Male,Nyagatare,PTSD,Mild,Rehabilitation,Stable,2023-03-03
+PAT00615,52,Female,Huye,Bipolar Disorder,Moderate,Psychotherapy,Improved,2022-05-20
+PAT00616,62,Female,Karongi,Anxiety Disorder,Mild,Psychotherapy,Improved,2024-12-20
+PAT00617,32,Male,Rubavu,Schizophrenia,Mild,Rehabilitation,Improved,2024-05-06
+PAT00618,32,Male,Rubavu,PTSD,Mild,Combined Therapy,Improved,2022-09-07
+PAT00619,79,Male,Rwamagana,Bipolar Disorder,Mild,Rehabilitation,Improved,2023-12-20
+PAT00620,53,Male,Gicumbi,Bipolar Disorder,Mild,Rehabilitation,Improved,2024-08-26
+PAT00621,77,Female,Rusizi,Schizophrenia,Severe,Combined Therapy,Improved,2022-03-26
+PAT00622,17,Male,Rwamagana,Bipolar Disorder,Severe,Psychotherapy,Improved,2024-10-18
+PAT00623,48,Female,Huye,Depression,Moderate,Rehabilitation,Improved,2022-08-10
+PAT00624,73,Male,Muhanga,Substance Abuse,Moderate,Psychotherapy,Stable,2024-10-02
+PAT00625,47,Female,Kigali City,PTSD,Moderate,Rehabilitation,Improved,2024-07-01
+PAT00626,59,Male,Kigali City,Depression,Mild,Counseling,Stable,2022-04-22
+PAT00627,41,Male,Musanze,Anxiety Disorder,Severe,Rehabilitation,Improved,2024-12-03
+PAT00628,65,Female,Rusizi,Schizophrenia,Severe,Counseling,Improved,2024-07-18
+PAT00629,78,Female,Rwamagana,Depression,Severe,Rehabilitation,Improved,2024-09-13
+PAT00630,31,Female,Nyagatare,PTSD,Severe,Counseling,Improved,2024-06-20
+PAT00631,49,Female,Rwamagana,Anxiety Disorder,Mild,Medication,Improved,2024-12-24
+PAT00632,32,Male,Kigali City,PTSD,Mild,Counseling,Stable,2022-05-09
+PAT00633,80,Male,Kigali City,Depression,Moderate,Counseling,Stable,2023-09-08
+PAT00634,62,Female,Rusizi,Bipolar Disorder,Severe,Rehabilitation,Improved,2022-07-23
+PAT00635,41,Male,Rusizi,Bipolar Disorder,Severe,Psychotherapy,Deteriorated,2023-12-31
+PAT00636,57,Female,Huye,Depression,Severe,Medication,Improved,2023-05-05
+PAT00637,25,Male,Rubavu,Schizophrenia,Moderate,Medication,Stable,2023-09-04
+PAT00638,15,Male,Rubavu,Anxiety Disorder,Mild,Medication,Improved,2023-07-30
+PAT00639,40,Male,Karongi,Substance Abuse,Severe,Rehabilitation,Improved,2023-06-09
+PAT00640,54,Female,Nyagatare,Substance Abuse,Moderate,Counseling,Stable,2022-07-06
+PAT00641,47,Male,Rwamagana,PTSD,Mild,Psychotherapy,Improved,2023-07-10
+PAT00642,30,Male,Rusizi,Bipolar Disorder,Severe,Combined Therapy,Improved,2023-12-02
+PAT00643,75,Male,Muhanga,Depression,Mild,Medication,Stable,2024-06-07
+PAT00644,77,Female,Rwamagana,Bipolar Disorder,Mild,Combined Therapy,Improved,2023-09-28
+PAT00645,63,Female,Nyagatare,Bipolar Disorder,Severe,Rehabilitation,Improved,2024-05-22
+PAT00646,50,Male,Muhanga,Bipolar Disorder,Severe,Counseling,Deteriorated,2023-11-26
+PAT00647,47,Female,Rubavu,PTSD,Moderate,Combined Therapy,Improved,2022-02-04
+PAT00648,18,Female,Rubavu,PTSD,Moderate,Combined Therapy,Stable,2022-05-14
+PAT00649,21,Female,Kigali City,Schizophrenia,Moderate,Medication,Stable,2024-06-25
+PAT00650,52,Male,Rusizi,Substance Abuse,Mild,Psychotherapy,Improved,2024-04-01
+PAT00651,28,Male,Nyagatare,Substance Abuse,Severe,Counseling,Improved,2022-07-29
+PAT00652,52,Female,Musanze,PTSD,Moderate,Rehabilitation,Improved,2023-02-22
+PAT00653,19,Male,Gicumbi,Substance Abuse,Severe,Psychotherapy,Improved,2024-01-08
+PAT00654,25,Female,Rusizi,Anxiety Disorder,Moderate,Medication,Stable,2023-04-04
+PAT00655,69,Female,Kigali City,Substance Abuse,Mild,Psychotherapy,Improved,2022-01-02
+PAT00656,40,Male,Karongi,Schizophrenia,Moderate,Counseling,Stable,2024-03-10
+PAT00657,79,Male,Muhanga,Depression,Severe,Combined Therapy,Stable,2022-09-07
+PAT00658,56,Male,Musanze,Depression,Mild,Combined Therapy,Deteriorated,2023-05-11
+PAT00659,47,Female,Rusizi,PTSD,Severe,Psychotherapy,Improved,2024-12-08
+PAT00660,43,Female,Nyagatare,Anxiety Disorder,Mild,Psychotherapy,Stable,2022-09-08
+PAT00661,46,Male,Rwamagana,Bipolar Disorder,Mild,Psychotherapy,Improved,2023-12-08
+PAT00662,48,Male,Rubavu,Anxiety Disorder,Moderate,Combined Therapy,Deteriorated,2024-08-30
+PAT00663,55,Female,Rubavu,Schizophrenia,Mild,Rehabilitation,Improved,2022-04-08
+PAT00664,46,Female,Rusizi,PTSD,Moderate,Combined Therapy,Deteriorated,2024-09-07
+PAT00665,21,Male,Rusizi,Schizophrenia,Moderate,Counseling,Improved,2023-12-17
+PAT00666,66,Female,Kigali City,Depression,Moderate,Combined Therapy,Improved,2022-05-17
+PAT00667,39,Male,Rwamagana,PTSD,Moderate,Medication,Deteriorated,2023-05-14
+PAT00668,38,Male,Rusizi,Schizophrenia,Severe,Psychotherapy,Improved,2024-09-22
+PAT00669,25,Male,Rubavu,Substance Abuse,Mild,Combined Therapy,Improved,2024-12-31
+PAT00670,72,Female,Rwamagana,Depression,Severe,Combined Therapy,Improved,2024-11-07
+PAT00671,80,Male,Rusizi,Substance Abuse,Moderate,Psychotherapy,Deteriorated,2023-11-28
+PAT00672,29,Female,Rwamagana,Schizophrenia,Severe,Counseling,Stable,2022-12-15
+PAT00673,48,Male,Musanze,Anxiety Disorder,Mild,Rehabilitation,Stable,2023-11-04
+PAT00674,39,Female,Nyagatare,Anxiety Disorder,Moderate,Medication,Stable,2023-05-09
+PAT00675,60,Female,Rwamagana,Depression,Moderate,Rehabilitation,Improved,2024-09-29
+PAT00676,36,Female,Kigali City,PTSD,Moderate,Rehabilitation,Improved,2023-11-22
+PAT00677,73,Female,Rwamagana,Substance Abuse,Mild,Counseling,Improved,2024-01-31
+PAT00678,53,Male,Karongi,Substance Abuse,Mild,Medication,Improved,2024-03-29
+PAT00679,56,Female,Nyagatare,Bipolar Disorder,Mild,Counseling,Improved,2022-11-02
+PAT00680,72,Female,Nyagatare,Schizophrenia,Moderate,Counseling,Improved,2023-01-06
+PAT00681,61,Female,Gicumbi,Depression,Mild,Combined Therapy,Improved,2022-04-12
+PAT00682,65,Female,Nyagatare,PTSD,Moderate,Medication,Improved,2023-08-20
+PAT00683,68,Female,Muhanga,Bipolar Disorder,Mild,Medication,Improved,2022-02-07
+PAT00684,16,Male,Rubavu,PTSD,Severe,Combined Therapy,Improved,2024-09-06
+PAT00685,65,Male,Musanze,PTSD,Moderate,Psychotherapy,Stable,2024-06-25
+PAT00686,75,Male,Gicumbi,PTSD,Severe,Psychotherapy,Stable,2022-12-08
+PAT00687,43,Female,Rubavu,Substance Abuse,Mild,Counseling,Stable,2024-12-03
+PAT00688,79,Female,Huye,Schizophrenia,Mild,Counseling,Improved,2023-06-02
+PAT00689,68,Female,Huye,PTSD,Moderate,Medication,Improved,2023-06-05
+PAT00690,23,Male,Rusizi,Depression,Moderate,Medication,Improved,2024-03-23
+PAT00691,62,Female,Rwamagana,PTSD,Mild,Rehabilitation,Stable,2024-04-20
+PAT00692,73,Male,Musanze,Schizophrenia,Severe,Psychotherapy,Stable,2023-03-31
+PAT00693,36,Male,Karongi,Depression,Moderate,Psychotherapy,Improved,2024-04-27
+PAT00694,42,Female,Huye,Anxiety Disorder,Moderate,Counseling,Improved,2022-01-27
+PAT00695,25,Male,Karongi,Anxiety Disorder,Mild,Counseling,Improved,2023-05-06
+PAT00696,26,Female,Rwamagana,Bipolar Disorder,Moderate,Combined Therapy,Improved,2024-03-15
+PAT00697,53,Male,Gicumbi,PTSD,Mild,Combined Therapy,Improved,2023-02-15
+PAT00698,36,Female,Kigali City,Bipolar Disorder,Mild,Counseling,Improved,2022-03-27
+PAT00699,47,Female,Rwamagana,PTSD,Mild,Combined Therapy,Improved,2023-02-26
+PAT00700,44,Female,Huye,Bipolar Disorder,Moderate,Psychotherapy,Improved,2022-02-04
+PAT00701,53,Female,Musanze,Schizophrenia,Mild,Combined Therapy,Stable,2023-05-20
+PAT00702,40,Female,Rubavu,PTSD,Moderate,Rehabilitation,Improved,2023-10-27
+PAT00703,76,Female,Rusizi,Anxiety Disorder,Mild,Counseling,Improved,2022-12-28
+PAT00704,20,Female,Gicumbi,PTSD,Moderate,Psychotherapy,Improved,2024-06-12
+PAT00705,67,Male,Rubavu,Depression,Moderate,Rehabilitation,Improved,2023-06-18
+PAT00706,36,Male,Huye,Schizophrenia,Mild,Psychotherapy,Improved,2024-11-21
+PAT00707,45,Male,Rubavu,Anxiety Disorder,Moderate,Medication,Improved,2022-08-27
+PAT00708,25,Female,Huye,Bipolar Disorder,Severe,Medication,Improved,2024-11-14
+PAT00709,16,Female,Huye,PTSD,Severe,Rehabilitation,Stable,2024-07-22
+PAT00710,22,Female,Muhanga,Schizophrenia,Moderate,Rehabilitation,Improved,2024-12-20
+PAT00711,26,Male,Rwamagana,Substance Abuse,Moderate,Counseling,Stable,2023-10-07
+PAT00712,71,Male,Rusizi,Bipolar Disorder,Severe,Psychotherapy,Improved,2024-09-24
+PAT00713,51,Female,Muhanga,Schizophrenia,Moderate,Counseling,Deteriorated,2023-04-19
+PAT00714,28,Female,Muhanga,PTSD,Mild,Counseling,Stable,2023-04-10
+PAT00715,54,Male,Rubavu,Bipolar Disorder,Mild,Rehabilitation,Improved,2024-07-29
+PAT00716,63,Female,Rubavu,Schizophrenia,Severe,Medication,Improved,2022-12-08
+PAT00717,18,Female,Rusizi,PTSD,Mild,Rehabilitation,Improved,2022-07-18
+PAT00718,31,Female,Musanze,Depression,Moderate,Rehabilitation,Improved,2023-09-05
+PAT00719,46,Female,Kigali City,Substance Abuse,Moderate,Rehabilitation,Improved,2024-04-08
+PAT00720,35,Female,Gicumbi,Bipolar Disorder,Mild,Rehabilitation,Improved,2023-04-09
+PAT00721,49,Male,Kigali City,Anxiety Disorder,Severe,Psychotherapy,Stable,2022-04-14
+PAT00722,42,Male,Musanze,Depression,Moderate,Combined Therapy,Improved,2022-01-27
+PAT00723,54,Female,Nyagatare,Anxiety Disorder,Severe,Rehabilitation,Improved,2022-04-11
+PAT00724,40,Male,Huye,Schizophrenia,Severe,Rehabilitation,Stable,2023-04-28
+PAT00725,39,Female,Gicumbi,PTSD,Moderate,Medication,Stable,2022-04-10
+PAT00726,36,Male,Muhanga,Anxiety Disorder,Mild,Rehabilitation,Improved,2022-01-06
+PAT00727,62,Female,Musanze,Bipolar Disorder,Severe,Psychotherapy,Deteriorated,2024-03-21
+PAT00728,18,Female,Rubavu,Schizophrenia,Moderate,Rehabilitation,Improved,2023-03-23
+PAT00729,37,Female,Rwamagana,Bipolar Disorder,Severe,Rehabilitation,Deteriorated,2023-03-07
+PAT00730,31,Female,Rusizi,Depression,Severe,Psychotherapy,Improved,2024-10-10
+PAT00731,36,Male,Nyagatare,Depression,Moderate,Psychotherapy,Improved,2024-09-23
+PAT00732,55,Female,Karongi,Schizophrenia,Severe,Medication,Improved,2023-03-03
+PAT00733,64,Male,Karongi,PTSD,Severe,Psychotherapy,Stable,2023-12-18
+PAT00734,18,Male,Rubavu,Depression,Severe,Combined Therapy,Improved,2024-12-19
+PAT00735,33,Female,Karongi,Anxiety Disorder,Severe,Psychotherapy,Improved,2024-05-25
+PAT00736,66,Female,Kigali City,Substance Abuse,Severe,Counseling,Improved,2024-04-25
+PAT00737,49,Female,Musanze,Depression,Mild,Medication,Deteriorated,2023-09-29
+PAT00738,47,Male,Huye,Substance Abuse,Mild,Counseling,Stable,2024-03-02
+PAT00739,57,Male,Musanze,Anxiety Disorder,Mild,Medication,Improved,2023-02-11
+PAT00740,51,Female,Gicumbi,Anxiety Disorder,Severe,Combined Therapy,Improved,2023-05-12
+PAT00741,26,Male,Rusizi,Depression,Severe,Rehabilitation,Improved,2023-01-03
+PAT00742,63,Male,Muhanga,Substance Abuse,Moderate,Combined Therapy,Improved,2023-06-06
+PAT00743,42,Male,Muhanga,Schizophrenia,Severe,Medication,Stable,2022-09-17
+PAT00744,63,Female,Rusizi,Depression,Severe,Medication,Improved,2023-10-02
+PAT00745,49,Male,Kigali City,PTSD,Mild,Counseling,Improved,2023-12-05
+PAT00746,38,Male,Rwamagana,Bipolar Disorder,Mild,Combined Therapy,Improved,2023-02-20
+PAT00747,41,Male,Muhanga,Schizophrenia,Severe,Medication,Improved,2023-05-27
+PAT00748,41,Male,Kigali City,PTSD,Mild,Psychotherapy,Deteriorated,2022-12-04
+PAT00749,59,Male,Musanze,Schizophrenia,Mild,Rehabilitation,Improved,2023-05-30
+PAT00750,78,Male,Nyagatare,Substance Abuse,Mild,Medication,Stable,2022-02-09
+PAT00751,37,Male,Huye,Schizophrenia,Moderate,Medication,Stable,2023-03-21
+PAT00752,30,Female,Gicumbi,Anxiety Disorder,Severe,Psychotherapy,Improved,2022-06-22
+PAT00753,20,Female,Rubavu,Depression,Moderate,Psychotherapy,Stable,2022-12-19
+PAT00754,54,Male,Musanze,Anxiety Disorder,Moderate,Psychotherapy,Improved,2023-05-21
+PAT00755,16,Male,Gicumbi,Schizophrenia,Moderate,Psychotherapy,Improved,2023-09-01
+PAT00756,30,Male,Huye,Bipolar Disorder,Mild,Psychotherapy,Improved,2022-10-12
+PAT00757,31,Male,Kigali City,Anxiety Disorder,Mild,Combined Therapy,Stable,2022-12-25
+PAT00758,33,Male,Karongi,Depression,Mild,Rehabilitation,Improved,2022-02-14
+PAT00759,30,Male,Rusizi,Bipolar Disorder,Mild,Counseling,Improved,2023-04-04
+PAT00760,27,Female,Kigali City,Bipolar Disorder,Mild,Psychotherapy,Improved,2024-08-31
+PAT00761,54,Female,Karongi,Depression,Moderate,Combined Therapy,Stable,2023-03-01
+PAT00762,77,Male,Kigali City,PTSD,Moderate,Rehabilitation,Stable,2022-03-22
+PAT00763,37,Female,Karongi,Substance Abuse,Moderate,Psychotherapy,Improved,2022-09-21
+PAT00764,15,Male,Rwamagana,Substance Abuse,Mild,Counseling,Improved,2022-04-11
+PAT00765,26,Male,Rwamagana,Substance Abuse,Mild,Combined Therapy,Improved,2022-04-17
+PAT00766,34,Male,Musanze,Substance Abuse,Moderate,Psychotherapy,Deteriorated,2022-03-24
+PAT00767,60,Female,Rwamagana,Substance Abuse,Severe,Medication,Improved,2023-12-12
+PAT00768,40,Male,Musanze,Schizophrenia,Moderate,Rehabilitation,Improved,2023-09-05
+PAT00769,76,Female,Rubavu,Substance Abuse,Mild,Combined Therapy,Stable,2022-04-19
+PAT00770,39,Female,Gicumbi,Substance Abuse,Severe,Rehabilitation,Stable,2022-06-23
+PAT00771,58,Male,Rusizi,Anxiety Disorder,Severe,Combined Therapy,Stable,2024-04-19
+PAT00772,40,Male,Huye,Anxiety Disorder,Moderate,Psychotherapy,Stable,2022-04-12
+PAT00773,24,Female,Rubavu,Substance Abuse,Mild,Combined Therapy,Improved,2024-02-18
+PAT00774,36,Male,Musanze,Bipolar Disorder,Moderate,Counseling,Improved,2023-01-20
+PAT00775,53,Male,Gicumbi,Depression,Mild,Medication,Stable,2022-12-11
+PAT00776,21,Male,Muhanga,PTSD,Mild,Counseling,Stable,2022-02-14
+PAT00777,24,Male,Muhanga,Schizophrenia,Mild,Rehabilitation,Improved,2023-04-16
+PAT00778,70,Male,Rwamagana,PTSD,Severe,Psychotherapy,Improved,2022-04-21
+PAT00779,42,Female,Karongi,Anxiety Disorder,Severe,Rehabilitation,Stable,2024-01-02
+PAT00780,76,Male,Nyagatare,Substance Abuse,Moderate,Combined Therapy,Improved,2024-09-07
+PAT00781,59,Female,Nyagatare,Anxiety Disorder,Moderate,Rehabilitation,Improved,2022-05-29
+PAT00782,76,Female,Muhanga,Substance Abuse,Mild,Rehabilitation,Deteriorated,2023-08-11
+PAT00783,49,Male,Nyagatare,Substance Abuse,Mild,Counseling,Stable,2024-07-13
+PAT00784,74,Female,Muhanga,Substance Abuse,Severe,Counseling,Improved,2024-01-02
+PAT00785,27,Female,Huye,Schizophrenia,Moderate,Rehabilitation,Deteriorated,2022-02-17
+PAT00786,29,Female,Rwamagana,PTSD,Moderate,Counseling,Stable,2023-02-02
+PAT00787,43,Male,Rwamagana,PTSD,Severe,Combined Therapy,Improved,2022-07-01
+PAT00788,72,Male,Gicumbi,Anxiety Disorder,Severe,Counseling,Improved,2023-01-15
+PAT00789,75,Female,Rwamagana,Schizophrenia,Moderate,Medication,Stable,2024-06-22
+PAT00790,57,Female,Huye,Bipolar Disorder,Mild,Medication,Improved,2023-09-06
+PAT00791,73,Female,Muhanga,Schizophrenia,Mild,Rehabilitation,Deteriorated,2022-08-29
+PAT00792,65,Female,Rwamagana,Substance Abuse,Mild,Rehabilitation,Deteriorated,2024-07-29
+PAT00793,78,Female,Rusizi,Anxiety Disorder,Moderate,Psychotherapy,Improved,2022-06-15
+PAT00794,77,Female,Kigali City,Anxiety Disorder,Moderate,Medication,Improved,2024-02-04
+PAT00795,67,Male,Muhanga,Anxiety Disorder,Severe,Combined Therapy,Stable,2022-05-04
+PAT00796,69,Male,Rwamagana,Substance Abuse,Severe,Medication,Improved,2024-09-19
+PAT00797,68,Male,Muhanga,Substance Abuse,Mild,Combined Therapy,Improved,2023-12-06
+PAT00798,16,Male,Rusizi,Depression,Moderate,Psychotherapy,Improved,2023-08-18
+PAT00799,21,Male,Nyagatare,Schizophrenia,Mild,Counseling,Improved,2023-05-16
+PAT00800,29,Female,Rubavu,PTSD,Severe,Medication,Improved,2024-07-31
+PAT00801,40,Male,Kigali City,PTSD,Mild,Rehabilitation,Improved,2022-03-12
+PAT00802,50,Female,Musanze,Depression,Mild,Rehabilitation,Improved,2023-02-15
+PAT00803,43,Male,Kigali City,Anxiety Disorder,Mild,Psychotherapy,Deteriorated,2022-03-09
+PAT00804,34,Female,Muhanga,Anxiety Disorder,Mild,Combined Therapy,Improved,2024-06-04
+PAT00805,68,Female,Nyagatare,Depression,Mild,Counseling,Stable,2023-02-08
+PAT00806,70,Male,Rwamagana,PTSD,Moderate,Rehabilitation,Improved,2023-03-15
+PAT00807,42,Male,Huye,Anxiety Disorder,Moderate,Psychotherapy,Deteriorated,2024-08-25
+PAT00808,30,Female,Rubavu,Anxiety Disorder,Severe,Combined Therapy,Improved,2022-01-01
+PAT00809,40,Male,Nyagatare,Substance Abuse,Severe,Medication,Improved,2023-01-02
+PAT00810,18,Male,Rwamagana,Anxiety Disorder,Moderate,Psychotherapy,Improved,2023-12-15
+PAT00811,16,Female,Nyagatare,Bipolar Disorder,Moderate,Medication,Stable,2022-07-04
+PAT00812,77,Female,Kigali City,PTSD,Mild,Medication,Improved,2023-04-12
+PAT00813,53,Male,Karongi,Substance Abuse,Moderate,Medication,Improved,2023-08-31
+PAT00814,23,Male,Gicumbi,Depression,Moderate,Counseling,Stable,2022-02-07
+PAT00815,21,Male,Huye,Depression,Moderate,Medication,Deteriorated,2022-07-26
+PAT00816,48,Female,Rwamagana,Depression,Moderate,Counseling,Improved,2024-11-11
+PAT00817,77,Male,Muhanga,Anxiety Disorder,Moderate,Rehabilitation,Stable,2024-08-17
+PAT00818,51,Male,Kigali City,Depression,Mild,Counseling,Improved,2023-12-29
+PAT00819,52,Female,Rusizi,Anxiety Disorder,Mild,Psychotherapy,Improved,2024-02-05
+PAT00820,76,Male,Rubavu,Bipolar Disorder,Mild,Rehabilitation,Improved,2022-07-01
+PAT00821,27,Male,Rwamagana,Depression,Moderate,Psychotherapy,Deteriorated,2023-11-12
+PAT00822,32,Female,Musanze,Schizophrenia,Severe,Counseling,Improved,2022-03-02
+PAT00823,79,Female,Rubavu,Substance Abuse,Moderate,Combined Therapy,Stable,2024-01-08
+PAT00824,31,Male,Rubavu,PTSD,Moderate,Psychotherapy,Improved,2023-10-21
+PAT00825,28,Male,Gicumbi,Bipolar Disorder,Mild,Psychotherapy,Stable,2023-02-02
+PAT00826,64,Female,Rusizi,Anxiety Disorder,Mild,Rehabilitation,Improved,2024-01-17
+PAT00827,18,Male,Musanze,Anxiety Disorder,Mild,Psychotherapy,Improved,2023-03-12
+PAT00828,45,Female,Karongi,Schizophrenia,Moderate,Medication,Stable,2024-09-26
+PAT00829,56,Female,Karongi,Substance Abuse,Moderate,Psychotherapy,Stable,2022-08-29
+PAT00830,75,Female,Gicumbi,PTSD,Moderate,Medication,Improved,2022-09-24
+PAT00831,63,Male,Rwamagana,PTSD,Moderate,Medication,Stable,2023-11-08
+PAT00832,69,Male,Muhanga,Bipolar Disorder,Moderate,Counseling,Improved,2024-02-04
+PAT00833,38,Male,Gicumbi,PTSD,Mild,Counseling,Improved,2022-09-29
+PAT00834,74,Male,Musanze,Substance Abuse,Moderate,Combined Therapy,Improved,2024-03-21
+PAT00835,43,Male,Rusizi,Schizophrenia,Severe,Psychotherapy,Improved,2023-09-29
+PAT00836,19,Male,Rwamagana,Anxiety Disorder,Moderate,Medication,Improved,2023-01-16
+PAT00837,23,Female,Karongi,Substance Abuse,Mild,Psychotherapy,Improved,2024-10-16
+PAT00838,75,Female,Kigali City,Depression,Mild,Psychotherapy,Improved,2022-11-24
+PAT00839,18,Male,Karongi,Anxiety Disorder,Mild,Combined Therapy,Stable,2022-10-08
+PAT00840,44,Male,Musanze,Substance Abuse,Moderate,Counseling,Deteriorated,2022-06-04
+PAT00841,57,Female,Huye,Schizophrenia,Moderate,Combined Therapy,Improved,2024-02-19
+PAT00842,16,Female,Nyagatare,Schizophrenia,Moderate,Rehabilitation,Deteriorated,2023-02-21
+PAT00843,72,Male,Huye,Anxiety Disorder,Mild,Counseling,Improved,2024-04-24
+PAT00844,71,Female,Huye,Bipolar Disorder,Severe,Combined Therapy,Improved,2024-10-07
+PAT00845,69,Male,Rubavu,Anxiety Disorder,Moderate,Medication,Stable,2022-06-16
+PAT00846,59,Male,Kigali City,Substance Abuse,Severe,Medication,Improved,2022-12-06
+PAT00847,75,Male,Rubavu,Anxiety Disorder,Mild,Combined Therapy,Improved,2023-11-01
+PAT00848,21,Female,Rubavu,Schizophrenia,Mild,Medication,Deteriorated,2024-11-06
+PAT00849,37,Male,Rusizi,Schizophrenia,Moderate,Psychotherapy,Improved,2023-02-03
+PAT00850,66,Male,Gicumbi,Substance Abuse,Moderate,Counseling,Improved,2023-01-31
+PAT00851,52,Female,Kigali City,Depression,Mild,Rehabilitation,Stable,2024-04-06
+PAT00852,36,Female,Musanze,Anxiety Disorder,Moderate,Rehabilitation,Deteriorated,2024-09-20
+PAT00853,15,Male,Nyagatare,PTSD,Severe,Counseling,Improved,2023-02-02
+PAT00854,78,Female,Kigali City,Substance Abuse,Moderate,Counseling,Stable,2022-09-07
+PAT00855,80,Male,Rusizi,Bipolar Disorder,Mild,Medication,Improved,2024-11-18
+PAT00856,62,Female,Rubavu,Anxiety Disorder,Moderate,Counseling,Improved,2024-10-07
+PAT00857,32,Female,Rwamagana,Depression,Severe,Medication,Improved,2023-09-12
+PAT00858,36,Male,Karongi,PTSD,Severe,Rehabilitation,Improved,2023-06-16
+PAT00859,72,Female,Musanze,Substance Abuse,Mild,Combined Therapy,Improved,2022-03-12
+PAT00860,28,Male,Rwamagana,Schizophrenia,Mild,Medication,Improved,2022-12-11
+PAT00861,67,Male,Rusizi,Schizophrenia,Mild,Combined Therapy,Stable,2022-08-30
+PAT00862,45,Female,Rubavu,Depression,Moderate,Medication,Improved,2022-07-02
+PAT00863,49,Male,Rwamagana,PTSD,Mild,Rehabilitation,Improved,2023-04-29
+PAT00864,74,Female,Rubavu,Bipolar Disorder,Severe,Counseling,Improved,2023-12-01
+PAT00865,47,Male,Rwamagana,Depression,Mild,Psychotherapy,Improved,2024-11-22
+PAT00866,54,Female,Karongi,Depression,Severe,Psychotherapy,Deteriorated,2022-12-21
+PAT00867,56,Female,Huye,Substance Abuse,Mild,Rehabilitation,Improved,2024-08-10
+PAT00868,65,Female,Gicumbi,Schizophrenia,Mild,Combined Therapy,Improved,2024-12-05
+PAT00869,72,Male,Rubavu,Depression,Severe,Psychotherapy,Stable,2024-11-14
+PAT00870,17,Male,Karongi,Bipolar Disorder,Moderate,Counseling,Stable,2022-10-11
+PAT00871,31,Female,Huye,Substance Abuse,Mild,Combined Therapy,Improved,2024-12-12
+PAT00872,72,Male,Gicumbi,Anxiety Disorder,Moderate,Rehabilitation,Improved,2024-07-21
+PAT00873,47,Male,Nyagatare,Depression,Severe,Combined Therapy,Improved,2022-11-22
+PAT00874,53,Female,Rwamagana,PTSD,Moderate,Rehabilitation,Stable,2022-03-22
+PAT00875,66,Female,Musanze,Anxiety Disorder,Moderate,Psychotherapy,Stable,2024-01-01
+PAT00876,30,Female,Karongi,PTSD,Severe,Rehabilitation,Improved,2022-02-16
+PAT00877,62,Male,Rwamagana,Depression,Mild,Psychotherapy,Improved,2023-07-21
+PAT00878,73,Female,Huye,PTSD,Moderate,Psychotherapy,Stable,2024-08-11
+PAT00879,39,Female,Kigali City,Depression,Moderate,Psychotherapy,Improved,2023-05-16
+PAT00880,56,Male,Rubavu,PTSD,Severe,Psychotherapy,Stable,2024-11-27
+PAT00881,27,Female,Huye,Depression,Mild,Combined Therapy,Improved,2023-09-24
+PAT00882,26,Male,Huye,Depression,Severe,Combined Therapy,Improved,2022-05-03
+PAT00883,17,Male,Karongi,PTSD,Mild,Psychotherapy,Improved,2024-08-08
+PAT00884,57,Male,Rubavu,Substance Abuse,Severe,Counseling,Deteriorated,2023-02-19
+PAT00885,27,Male,Nyagatare,Depression,Mild,Rehabilitation,Improved,2024-12-15
+PAT00886,40,Female,Musanze,Schizophrenia,Mild,Counseling,Deteriorated,2023-02-03
+PAT00887,50,Female,Karongi,Anxiety Disorder,Moderate,Medication,Improved,2024-03-12
+PAT00888,46,Male,Musanze,Anxiety Disorder,Moderate,Psychotherapy,Improved,2022-05-13
+PAT00889,21,Female,Kigali City,Bipolar Disorder,Moderate,Combined Therapy,Stable,2024-06-25
+PAT00890,52,Male,Kigali City,Anxiety Disorder,Moderate,Medication,Improved,2023-04-29
+PAT00891,44,Male,Rwamagana,Substance Abuse,Mild,Psychotherapy,Improved,2024-02-15
+PAT00892,66,Male,Muhanga,Substance Abuse,Mild,Rehabilitation,Stable,2024-08-06
+PAT00893,35,Female,Nyagatare,Bipolar Disorder,Moderate,Psychotherapy,Improved,2023-01-29
+PAT00894,68,Male,Huye,Depression,Moderate,Medication,Improved,2023-11-20
+PAT00895,33,Male,Rwamagana,Anxiety Disorder,Severe,Psychotherapy,Improved,2024-06-03
+PAT00896,51,Female,Huye,Depression,Mild,Combined Therapy,Stable,2024-05-28
+PAT00897,53,Male,Nyagatare,Bipolar Disorder,Mild,Medication,Stable,2024-12-31
+PAT00898,39,Male,Gicumbi,Bipolar Disorder,Severe,Combined Therapy,Stable,2022-03-29
+PAT00899,19,Female,Rusizi,Schizophrenia,Severe,Psychotherapy,Improved,2022-05-28
+PAT00900,76,Female,Gicumbi,Bipolar Disorder,Mild,Combined Therapy,Improved,2022-03-06
+PAT00901,72,Female,Karongi,Anxiety Disorder,Mild,Medication,Deteriorated,2024-11-04
+PAT00902,72,Female,Kigali City,Schizophrenia,Moderate,Medication,Improved,2023-01-04
+PAT00903,61,Male,Musanze,Depression,Severe,Rehabilitation,Improved,2023-12-12
+PAT00904,39,Female,Rubavu,Anxiety Disorder,Mild,Psychotherapy,Improved,2022-07-10
+PAT00905,65,Female,Rwamagana,Substance Abuse,Mild,Combined Therapy,Improved,2024-06-20
+PAT00906,64,Female,Musanze,Anxiety Disorder,Mild,Counseling,Deteriorated,2022-02-21
+PAT00907,32,Female,Rwamagana,Schizophrenia,Moderate,Combined Therapy,Improved,2023-06-01
+PAT00908,51,Female,Gicumbi,PTSD,Mild,Counseling,Improved,2024-10-10
+PAT00909,45,Male,Huye,PTSD,Mild,Medication,Improved,2023-10-13
+PAT00910,55,Male,Rwamagana,Bipolar Disorder,Mild,Counseling,Improved,2022-04-14
+PAT00911,52,Female,Rusizi,Anxiety Disorder,Severe,Counseling,Improved,2024-01-29
+PAT00912,73,Male,Rubavu,PTSD,Moderate,Rehabilitation,Improved,2022-12-19
+PAT00913,29,Male,Karongi,Depression,Severe,Counseling,Improved,2023-03-06
+PAT00914,70,Male,Gicumbi,Substance Abuse,Severe,Counseling,Improved,2024-07-05
+PAT00915,16,Male,Rwamagana,Depression,Moderate,Counseling,Deteriorated,2023-03-09
+PAT00916,80,Female,Rubavu,PTSD,Mild,Combined Therapy,Deteriorated,2022-11-04
+PAT00917,77,Female,Kigali City,PTSD,Moderate,Medication,Improved,2023-12-01
+PAT00918,58,Male,Nyagatare,Anxiety Disorder,Moderate,Medication,Improved,2023-02-11
+PAT00919,50,Female,Musanze,Depression,Severe,Rehabilitation,Improved,2023-09-12
+PAT00920,73,Male,Gicumbi,Substance Abuse,Moderate,Rehabilitation,Improved,2022-04-17
+PAT00921,24,Male,Rubavu,PTSD,Mild,Rehabilitation,Improved,2024-10-13
+PAT00922,72,Female,Rubavu,Depression,Moderate,Medication,Improved,2024-07-11
+PAT00923,51,Male,Rwamagana,Anxiety Disorder,Moderate,Combined Therapy,Improved,2022-07-23
+PAT00924,59,Female,Rwamagana,Depression,Mild,Combined Therapy,Deteriorated,2022-12-11
+PAT00925,62,Female,Muhanga,Schizophrenia,Mild,Medication,Stable,2022-06-15
+PAT00926,70,Male,Nyagatare,PTSD,Severe,Combined Therapy,Improved,2024-01-18
+PAT00927,36,Male,Rusizi,Substance Abuse,Severe,Rehabilitation,Deteriorated,2023-03-01
+PAT00928,68,Female,Nyagatare,PTSD,Moderate,Counseling,Improved,2023-09-19
+PAT00929,17,Female,Karongi,Schizophrenia,Severe,Rehabilitation,Stable,2024-09-29
+PAT00930,25,Female,Muhanga,PTSD,Moderate,Psychotherapy,Improved,2022-06-29
+PAT00931,45,Female,Musanze,Schizophrenia,Mild,Counseling,Improved,2022-07-02
+PAT00932,31,Female,Kigali City,PTSD,Severe,Medication,Deteriorated,2022-07-22
+PAT00933,25,Male,Huye,Bipolar Disorder,Mild,Counseling,Improved,2022-08-22
+PAT00934,63,Female,Kigali City,Bipolar Disorder,Mild,Psychotherapy,Stable,2022-07-23
+PAT00935,63,Female,Rusizi,Depression,Mild,Medication,Stable,2023-10-26
+PAT00936,21,Male,Kigali City,Schizophrenia,Severe,Counseling,Improved,2023-02-27
+PAT00937,49,Female,Rwamagana,Schizophrenia,Mild,Psychotherapy,Improved,2023-05-31
+PAT00938,57,Female,Karongi,Anxiety Disorder,Mild,Medication,Improved,2024-08-28
+PAT00939,56,Male,Rubavu,Bipolar Disorder,Mild,Medication,Improved,2024-03-25
+PAT00940,55,Female,Nyagatare,Substance Abuse,Moderate,Rehabilitation,Improved,2024-03-19
+PAT00941,39,Female,Muhanga,Substance Abuse,Moderate,Psychotherapy,Stable,2023-02-07
+PAT00942,76,Male,Muhanga,Depression,Moderate,Counseling,Improved,2023-10-07
+PAT00943,45,Male,Huye,Depression,Moderate,Combined Therapy,Improved,2023-12-05
+PAT00944,54,Male,Musanze,Anxiety Disorder,Mild,Combined Therapy,Improved,2022-12-21
+PAT00945,76,Female,Kigali City,Depression,Mild,Medication,Improved,2023-03-11
+PAT00946,59,Female,Rubavu,Substance Abuse,Severe,Medication,Improved,2023-02-26
+PAT00947,74,Male,Musanze,Depression,Severe,Medication,Stable,2022-01-19
+PAT00948,41,Female,Muhanga,Schizophrenia,Severe,Medication,Stable,2024-11-10
+PAT00949,50,Male,Nyagatare,Anxiety Disorder,Severe,Rehabilitation,Stable,2023-01-20
+PAT00950,50,Male,Rwamagana,PTSD,Mild,Combined Therapy,Improved,2022-09-06
+PAT00951,62,Female,Nyagatare,Bipolar Disorder,Severe,Psychotherapy,Improved,2022-07-07
+PAT00952,29,Female,Muhanga,Anxiety Disorder,Mild,Counseling,Improved,2024-09-08
+PAT00953,65,Female,Karongi,Depression,Moderate,Counseling,Improved,2022-03-03
+PAT00954,49,Male,Rwamagana,Anxiety Disorder,Severe,Medication,Improved,2022-12-28
+PAT00955,37,Male,Gicumbi,PTSD,Mild,Rehabilitation,Improved,2022-10-26
+PAT00956,31,Female,Karongi,Anxiety Disorder,Severe,Counseling,Stable,2022-01-15
+PAT00957,37,Male,Rubavu,Anxiety Disorder,Moderate,Combined Therapy,Stable,2023-10-14
+PAT00958,43,Female,Karongi,Bipolar Disorder,Mild,Medication,Improved,2024-07-10
+PAT00959,38,Female,Rubavu,PTSD,Mild,Counseling,Improved,2024-08-22
+PAT00960,68,Male,Muhanga,Depression,Moderate,Combined Therapy,Improved,2023-06-21
+PAT00961,60,Female,Kigali City,Bipolar Disorder,Mild,Counseling,Stable,2024-05-16
+PAT00962,55,Male,Nyagatare,Depression,Mild,Counseling,Improved,2024-03-16
+PAT00963,79,Male,Rubavu,Schizophrenia,Mild,Counseling,Improved,2022-12-15
+PAT00964,45,Female,Rwamagana,PTSD,Severe,Medication,Stable,2023-12-15
+PAT00965,72,Male,Rusizi,Bipolar Disorder,Mild,Psychotherapy,Improved,2023-11-20
+PAT00966,39,Male,Kigali City,Bipolar Disorder,Severe,Psychotherapy,Improved,2024-09-05
+PAT00967,65,Male,Rubavu,PTSD,Mild,Medication,Stable,2023-10-24
+PAT00968,35,Male,Huye,Depression,Moderate,Medication,Improved,2022-06-14
+PAT00969,39,Male,Rwamagana,Anxiety Disorder,Mild,Psychotherapy,Improved,2022-02-23
+PAT00970,57,Female,Rwamagana,Schizophrenia,Moderate,Combined Therapy,Stable,2022-11-24
+PAT00971,68,Female,Rubavu,PTSD,Moderate,Rehabilitation,Stable,2023-05-01
+PAT00972,33,Male,Rwamagana,Bipolar Disorder,Mild,Medication,Stable,2022-08-06
+PAT00973,58,Female,Gicumbi,Depression,Moderate,Medication,Improved,2023-08-25
+PAT00974,53,Male,Kigali City,PTSD,Severe,Rehabilitation,Improved,2024-01-05
+PAT00975,51,Male,Rusizi,Anxiety Disorder,Mild,Psychotherapy,Improved,2022-05-27
+PAT00976,16,Male,Gicumbi,PTSD,Moderate,Counseling,Deteriorated,2022-10-20
+PAT00977,45,Female,Kigali City,PTSD,Severe,Combined Therapy,Improved,2023-05-06
+PAT00978,40,Female,Rwamagana,Anxiety Disorder,Mild,Medication,Improved,2023-12-05
+PAT00979,61,Male,Muhanga,Schizophrenia,Severe,Rehabilitation,Stable,2024-10-06
+PAT00980,73,Male,Rubavu,Anxiety Disorder,Moderate,Counseling,Deteriorated,2023-10-28
+PAT00981,61,Male,Huye,PTSD,Mild,Combined Therapy,Stable,2023-12-06
+PAT00982,39,Female,Gicumbi,Depression,Moderate,Combined Therapy,Stable,2023-01-13
+PAT00983,23,Female,Musanze,Depression,Mild,Psychotherapy,Stable,2024-07-25
+PAT00984,35,Female,Muhanga,Bipolar Disorder,Moderate,Combined Therapy,Improved,2022-05-23
+PAT00985,19,Female,Rubavu,Anxiety Disorder,Severe,Counseling,Improved,2022-06-22
+PAT00986,76,Female,Musanze,Schizophrenia,Severe,Combined Therapy,Improved,2024-02-11
+PAT00987,25,Female,Musanze,Anxiety Disorder,Severe,Medication,Improved,2023-09-09
+PAT00988,78,Female,Musanze,Bipolar Disorder,Severe,Psychotherapy,Improved,2024-09-29
+PAT00989,73,Male,Musanze,PTSD,Severe,Counseling,Deteriorated,2022-11-21
+PAT00990,32,Male,Rwamagana,Substance Abuse,Moderate,Medication,Improved,2022-01-14
+PAT00991,18,Female,Musanze,Substance Abuse,Mild,Medication,Improved,2022-11-29
+PAT00992,73,Female,Rwamagana,PTSD,Mild,Rehabilitation,Improved,2024-01-28
+PAT00993,64,Male,Karongi,Anxiety Disorder,Mild,Counseling,Improved,2024-03-05
+PAT00994,44,Male,Nyagatare,Depression,Mild,Combined Therapy,Improved,2023-11-01
+PAT00995,21,Female,Rubavu,Bipolar Disorder,Severe,Counseling,Improved,2023-06-11
+PAT00996,41,Male,Rubavu,Schizophrenia,Moderate,Counseling,Improved,2024-11-17
+PAT00997,16,Female,Gicumbi,Substance Abuse,Mild,Combined Therapy,Improved,2024-09-29
+PAT00998,73,Female,Musanze,Substance Abuse,Mild,Rehabilitation,Improved,2022-05-10
+PAT00999,20,Male,Muhanga,Schizophrenia,Mild,Medication,Deteriorated,2023-09-21
+PAT01000,72,Female,Rwamagana,Schizophrenia,Severe,Counseling,Improved,2023-10-27
